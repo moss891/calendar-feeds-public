@@ -1,1 +1,1 @@
-# calendar-feeds-public
+# Public ICS Feeds
