@@ -4,9 +4,10 @@ PRODID:-//Calendar Generator//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:619dcdfd-262b-59c3-82a4-56260f67a573@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 1 (Chapter 1)
+UID:c8780f3a-6e84-5a3d-9cbe-9b64ea1f5bf2@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 1 – Affection for the Sel
+ f as the Foundation for Receiving Nourishment – Week 1
 DTSTART;TZID=America/Los_Angeles:20251204T103000
 DTEND;TZID=America/Los_Angeles:20251204T120000
 DESCRIPTION:Chapter 1 – Affection for the self as the foundation for the 
@@ -19,9 +20,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:bbb71330-9420-54b4-883f-77d3aab760ab@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 2 (Chapter 1)
+UID:9e5dce5d-1c96-5ae4-b4fb-392b45c65297@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 1 – Affection for the Sel
+ f as the Foundation for Receiving Nourishment – Week 2
 DTSTART;TZID=America/Los_Angeles:20251211T103000
 DTEND;TZID=America/Los_Angeles:20251211T120000
 DESCRIPTION:Continuation of Chapter 1.
@@ -30,9 +32,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:48e55639-28a7-5e8a-91db-c88625a047ee@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 3 (Chapter 2)
+UID:8255153f-8d66-540c-b910-b01ff7f52c66@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 2 – How Trauma Impacts th
+ e Ability to Receive – Week 3
 DTSTART;TZID=America/Los_Angeles:20251218T103000
 DTEND;TZID=America/Los_Angeles:20251218T120000
 DESCRIPTION:Chapter 2 – How trauma impacts the ability to receive\, and b
@@ -45,9 +48,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:2a7d0fad-69f5-5850-af5e-55d3c4adb396@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 4 (Chapter 2)
+UID:1ffe860a-ca67-5215-a3a1-a1bc72f8b838@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 2 – How Trauma Impacts th
+ e Ability to Receive – Week 4
 DTSTART;TZID=America/Los_Angeles:20260108T103000
 DTEND;TZID=America/Los_Angeles:20260108T120000
 DESCRIPTION:Continuation of Chapter 2.
@@ -56,9 +60,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:65314e84-28a8-5055-bbd7-3538dacc0c6c@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 5 (Chapter 3)
+UID:c4d0d6e6-1ce7-5619-a18d-225a57da91b9@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 3 – Self-Care Through Ins
+ trumental and Relational Lenses – Week 5
 DTSTART;TZID=America/Los_Angeles:20260115T103000
 DTEND;TZID=America/Los_Angeles:20260115T120000
 DESCRIPTION:Chapter 3 – Self-care through the instrumental and relational
@@ -72,9 +77,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:4a20acdf-2fae-5bda-90f7-1564339822e2@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 6 (Chapter 3)
+UID:437a973e-7814-5e6d-b521-665e083acb0a@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 3 – Self-Care Through Ins
+ trumental and Relational Lenses – Week 6
 DTSTART;TZID=America/Los_Angeles:20260122T103000
 DTEND;TZID=America/Los_Angeles:20260122T120000
 DESCRIPTION:Continuation of Chapter 3.
@@ -83,9 +89,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:57aeb01e-f4bc-5276-ac53-f41fe692b9c4@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 7 (Chapter 4)
+UID:45b57cd6-4dea-53d2-ad48-48bb91d90890@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 4 – How Healing Shame Hea
+ ls Our Ability to Receive – Week 7
 DTSTART;TZID=America/Los_Angeles:20260205T103000
 DTEND;TZID=America/Los_Angeles:20260205T120000
 DESCRIPTION:Chapter 4 – How healing shame heals our ability to receive.\n
@@ -97,9 +104,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:540e4417-1f3e-599d-8af7-048b4350c061@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 8 (Chapter 4)
+UID:b3892a86-15a6-506b-a056-cdf15c3a63bb@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 4 – How Healing Shame Hea
+ ls Our Ability to Receive – Week 8
 DTSTART;TZID=America/Los_Angeles:20260226T103000
 DTEND;TZID=America/Los_Angeles:20260226T120000
 DESCRIPTION:Continuation of Chapter 4.
@@ -108,9 +116,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:549300f8-294c-5dce-83d4-b91764389b67@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 9 (Chapter 5)
+UID:c8f5acde-9127-545d-a928-d11eaeeebb16@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 5 – Anxiety and Alarmed A
+ loneness in Receiving Love – Week 9
 DTSTART;TZID=America/Los_Angeles:20260305T103000
 DTEND;TZID=America/Los_Angeles:20260305T120000
 DESCRIPTION:Chapter 5 – Anxiety and alarmed aloneness in the effort to re
@@ -123,9 +132,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:956a20e8-161a-5c22-9e72-131b8a8fc511@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 10 (Chapter 5)
+UID:6793b009-a735-5ff1-9f15-599c66f6e5bd@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 5 – Anxiety and Alarmed A
+ loneness in Receiving Love – Week 10
 DTSTART;TZID=America/Los_Angeles:20260319T103000
 DTEND;TZID=America/Los_Angeles:20260319T120000
 DESCRIPTION:Continuation of Chapter 5.
@@ -134,9 +144,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:17990a28-c9bd-50b3-bc20-865b84d5e88c@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 11 (Chapter 6)
+UID:403fd102-9cd1-5882-8996-6b587c6eaf40@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 6 – Life-Serving Rage as 
+ Fuel and Doorway to Differentiation – Week 11
 DTSTART;TZID=America/Los_Angeles:20260402T103000
 DTEND;TZID=America/Los_Angeles:20260402T120000
 DESCRIPTION:Chapter 6 – Life-serving rage as fuel and doorway to differen
@@ -149,9 +160,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:26697d10-9ecd-5f59-baf8-2d8b1a6275c4@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 12 (Chapter 6)
+UID:b82e257f-b774-512b-9c73-7a33d62786ff@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 6 – Life-Serving Rage as 
+ Fuel and Doorway to Differentiation – Week 12
 DTSTART;TZID=America/Los_Angeles:20260409T103000
 DTEND;TZID=America/Los_Angeles:20260409T120000
 DESCRIPTION:Continuation of Chapter 6.
@@ -160,9 +172,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:ab275934-a29d-5b01-9e1f-f835aee7a1c2@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 13 (Chapter 7)
+UID:48e20e5c-7655-5fe0-bf26-575a6c6d6105@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 7 – From Dissociation int
+ o Embodiment – Week 13
 DTSTART;TZID=America/Los_Angeles:20260416T103000
 DTEND;TZID=America/Los_Angeles:20260416T120000
 DESCRIPTION:Chapter 7 – The movement from dissociation into embodiment.\n
@@ -174,9 +187,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:48fd78d1-84b5-5b3c-a750-222e3d118b2c@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 14 (Chapter 7)
+UID:1f127e3a-5d0b-5e54-af7a-6f4aea95d3af@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 7 – From Dissociation int
+ o Embodiment – Week 14
 DTSTART;TZID=America/Los_Angeles:20260423T103000
 DTEND;TZID=America/Los_Angeles:20260423T120000
 DESCRIPTION:Continuation of Chapter 7.
@@ -185,9 +199,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:85b7ef60-e7ee-52ef-9b06-0f9014d8a51b@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 15 (Chapter 8)
+UID:292440f2-0685-52d8-a5ff-6524daf5d187@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 8 – Attachment and Freedo
+ m – Week 15
 DTSTART;TZID=America/Los_Angeles:20260507T103000
 DTEND;TZID=America/Los_Angeles:20260507T120000
 DESCRIPTION:Chapter 8 – Attachment and freedom.\nThese three classes expl
@@ -199,9 +214,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:ed1c85b1-8c79-5a8a-b618-c1e45bf8cfe2@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 16 (Chapter 8)
+UID:2b5b8269-967c-5c0f-a62f-3470d492c018@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 8 – Attachment and Freedo
+ m – Week 16
 DTSTART;TZID=America/Los_Angeles:20260521T103000
 DTEND;TZID=America/Los_Angeles:20260521T120000
 DESCRIPTION:Continuation of Chapter 8 (with guest teacher Jaya Manske).
@@ -210,9 +226,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:681a2ab5-62b0-5f01-933d-fbcd47db9186@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 17 (Chapter 8)
+UID:f76de9a9-00af-554c-ad9a-5d39adbe7c96@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 8 – Attachment and Freedo
+ m – Week 17
 DTSTART;TZID=America/Los_Angeles:20260528T103000
 DTEND;TZID=America/Los_Angeles:20260528T120000
 DESCRIPTION:Closing work with Chapter 8 and movement toward secure attach
@@ -222,9 +239,9 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:722ef9ef-ed51-54b0-b87f-439765a0e3e0@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 18 (Bonus Q&A)
+UID:bfea4379-ef13-59c4-8c71-9a409f8bdfd4@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Bonus Q&A – Week 18
 DTSTART;TZID=America/Los_Angeles:20260611T103000
 DTEND;TZID=America/Los_Angeles:20260611T120000
 DESCRIPTION:Bonus Q&A Session – An opportunity to ask questions about res
@@ -234,9 +251,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:ad758dda-d644-58b1-8093-0ba602538205@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 19 (Chapter 9)
+UID:8096077e-162e-5e72-a7eb-841b193aa2d6@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 9 – Disorganization\, Cha
+ risma\, and Unpredictable Availability – Week 19
 DTSTART;TZID=America/Los_Angeles:20260618T103000
 DTEND;TZID=America/Los_Angeles:20260618T120000
 DESCRIPTION:Chapter 9 – Disorganization from charisma to unpredictable av
@@ -248,9 +266,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:e3f20e39-6b32-5cda-8a4f-b4b08d929c09@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 20 (Chapter 9)
+UID:e34f4f05-d020-5248-8270-bcea44b335b2@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 9 – Disorganization\, Cha
+ risma\, and Unpredictable Availability – Week 20
 DTSTART;TZID=America/Los_Angeles:20260709T103000
 DTEND;TZID=America/Los_Angeles:20260709T120000
 DESCRIPTION:Continuation of Chapter 9.
@@ -259,9 +278,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:908f0ae2-7ba1-56ac-9df8-613edcbccef3@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 21 (Chapter 10)
+UID:fd326b61-e4ea-5636-a0dc-57ab198e536c@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 10 – A New Look at Depres
+ sion – Week 21
 DTSTART;TZID=America/Los_Angeles:20260723T103000
 DTEND;TZID=America/Los_Angeles:20260723T120000
 DESCRIPTION:Chapter 10 – A new look at depression.\nWe explore unresolved
@@ -272,9 +292,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:917c94b3-2b3a-5826-9dfe-f048f5410b21@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 22 (Chapter 10)
+UID:9cf45baa-9e50-5b9d-9311-5cc649e20a1f@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 10 – A New Look at Depres
+ sion – Week 22
 DTSTART;TZID=America/Los_Angeles:20260813T103000
 DTEND;TZID=America/Los_Angeles:20260813T120000
 DESCRIPTION:Continuation of Chapter 10.
@@ -283,9 +304,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:124251a4-db59-5604-b06a-533d3b220c90@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 23 (Chapter 11)
+UID:a004f04b-dc20-58df-a8bd-60affcc00862@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 11 – Addiction as Transge
+ nerational Hunger – Week 23
 DTSTART;TZID=America/Los_Angeles:20260903T103000
 DTEND;TZID=America/Los_Angeles:20260903T120000
 DESCRIPTION:Chapter 11 – How Addiction can be transgenerational hunger.\n
@@ -297,9 +319,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:9832bf6e-1214-5714-91a0-c5d098606786@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 24 (Chapter 11)
+UID:c3647048-e68c-5063-adda-ebf554a07b73@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 11 – Addiction as Transge
+ nerational Hunger – Week 24
 DTSTART;TZID=America/Los_Angeles:20260917T103000
 DTEND;TZID=America/Los_Angeles:20260917T120000
 DESCRIPTION:Continuation of Chapter 11.
@@ -308,9 +331,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:fb0cbfde-ce3b-582d-a7c9-598011f00694@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 25 (Chapter 12)
+UID:fd1db4bd-81d6-56e0-867f-31af89230555@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 12 – Sexuality\, Emergenc
+ e\, and Nourishment – Week 25
 DTSTART;TZID=America/Los_Angeles:20260924T103000
 DTEND;TZID=America/Los_Angeles:20260924T120000
 DESCRIPTION:Chapter 12 – The relationship between sexuality\, emergence a
@@ -322,9 +346,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:22b4614a-4caf-58a5-a1cb-7a44cf0ec46a@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 26 (Chapter 12)
+UID:d9fe8493-7b1c-55d6-9bd4-04b49ca21020@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 12 – Sexuality\, Emergenc
+ e\, and Nourishment – Week 26
 DTSTART;TZID=America/Los_Angeles:20261015T103000
 DTEND;TZID=America/Los_Angeles:20261015T120000
 DESCRIPTION:Continuation of Chapter 12.
@@ -333,9 +358,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:45dab7b6-15b6-5746-bf06-43b9757a508e@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 27 (Chapter 13)
+UID:aae31cab-b620-5f8a-817f-b11e4e757507@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 13 – Reclaiming Joy – Wee
+ k 27
 DTSTART;TZID=America/Los_Angeles:20261022T103000
 DTEND;TZID=America/Los_Angeles:20261022T120000
 DESCRIPTION:Chapter 13 – Reclaiming Joy.\nWe look at what supports joy an
@@ -346,9 +372,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:52ea6374-650b-5528-8871-a89a31e681bb@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 28 (Chapter 13)
+UID:d58a884a-f392-5c2a-94ae-d3ab53451203@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Ch 13 – Reclaiming Joy – Wee
+ k 28
 DTSTART;TZID=America/Los_Angeles:20261029T103000
 DTEND;TZID=America/Los_Angeles:20261029T120000
 DESCRIPTION:Continuation of Chapter 13.
@@ -357,9 +384,9 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:fb21ffcb-1dbc-57de-964b-b6ec22d9007b@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Nourishment Yearlong — Week 29 (Closing Session)
+UID:fcc4bf56-5932-52fe-9a4c-620ad3ea17ee@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:Lifting the Shadow Off Nourishment – Closing Session – Week 29
 DTSTART;TZID=America/Los_Angeles:20261105T103000
 DTEND;TZID=America/Los_Angeles:20261105T120000
 DESCRIPTION:Closing session – We close our year of work together and make
@@ -369,9 +396,10 @@ CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:ed597324-eef9-5be3-b779-77122958b907@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Allowing Nourishment: Digestion and Attachment
+UID:fd4f95cb-f343-51c5-a429-067a8dce7590@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Allowing Nourishment: 
+ Digestion and Attachment
 DTSTART;TZID=America/Los_Angeles:20260113T190000
 DTEND;TZID=America/Los_Angeles:20260113T203000
 DESCRIPTION:What does it mean to be fed—not just with food\, but with car
@@ -390,9 +418,10 @@ CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:27f96caa-f643-53fb-9f31-d4f9a2122255@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:The Immune System and Our Relational Metabolism
+UID:a117e497-9f9d-5b87-9b69-8c879ad10f4c@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – The Immune System and 
+ Our Relational Metabolism
 DTSTART;TZID=America/Los_Angeles:20260224T190000
 DTEND;TZID=America/Los_Angeles:20260224T203000
 DESCRIPTION:Our immune systems don’t just fight off germs—they remember e
@@ -411,9 +440,10 @@ CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:cee2727d-4179-521d-89dd-6efb583e236f@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Lifelong Alarmed Aloneness: Approaches to Healing
+UID:f24a5ae2-36ad-5887-becc-3e035abe79c6@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Lifelong Alarmed Alone
+ ness: Approaches to Healing
 DTSTART;TZID=America/Los_Angeles:20260317T190000
 DTEND;TZID=America/Los_Angeles:20260317T203000
 DESCRIPTION:What happens when the people we needed most were not there? W
@@ -429,9 +459,10 @@ CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:ab00909e-25a9-5ca8-9544-e5b0d3fff20f@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Fawning\, the Vagus Nerve and Ambivalent Attachment
+UID:b1ef5bd0-2517-52e9-87d4-49f0a7984ae7@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Fawning\, the Vagus Ne
+ rve and Ambivalent Attachment
 DTSTART;TZID=America/Los_Angeles:20260428T190000
 DTEND;TZID=America/Los_Angeles:20260428T203000
 DESCRIPTION:Have you ever smiled when your heart wanted to scream? Or sai
@@ -450,9 +481,10 @@ CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:74a2aaf6-6e23-5425-b82d-27bcf98469c6@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Living in Fantasy: Escapism and Avoidant Attachment
+UID:c7ab73af-757a-520e-b431-807f5ec19926@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Living in Fantasy: Esc
+ apism and Avoidant Attachment
 DTSTART;TZID=America/Los_Angeles:20260526T190000
 DTEND;TZID=America/Los_Angeles:20260526T203000
 DESCRIPTION:When reality feels too sharp to touch\, fantasy becomes a bal
@@ -470,9 +502,10 @@ CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:daf5c226-485b-57bb-8c85-d0ba8dc09d30@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Living in Reality: Trust and Surrender
+UID:e796418a-5b2b-56d5-b9d1-00fb720fc3e7@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Living in Reality: Tru
+ st and Surrender
 DTSTART;TZID=America/Los_Angeles:20260623T190000
 DTEND;TZID=America/Los_Angeles:20260623T203000
 DESCRIPTION:What does it take to soften into the now? To meet another per
@@ -488,9 +521,10 @@ CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:afafbd32-fb7b-5617-b446-33c3118a0c3e@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Healing Community Identity and Solidarity After Trauma
+UID:75f79469-2dc9-5ac4-acbf-abd526ca59a7@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Healing Community Iden
+ tity and Solidarity After Trauma
 DTSTART;TZID=America/Los_Angeles:20260728T190000
 DTEND;TZID=America/Los_Angeles:20260728T203000
 DESCRIPTION:When trauma—whether natural disaster or harm caused by humans
@@ -507,9 +541,10 @@ CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:5dd6c5ca-0202-58ce-8ee2-20d96c106e65@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Self-Compassion and Aging: Neurobiology and Self-Relationship
+UID:e3970151-a358-5ba5-b839-d7709369abdb@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Self-Compassion and Ag
+ ing: Neurobiology and Self-Relationship
 DTSTART;TZID=America/Los_Angeles:20260825T190000
 DTEND;TZID=America/Los_Angeles:20260825T203000
 DESCRIPTION:As time paints lines on our faces and slows our steps\, how d
@@ -525,9 +560,10 @@ CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:8dd712d9-6d9b-5a0b-b552-e60e654d6b71@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Autism\, Trauma and the Vagus Nerve
+UID:aa5c054c-0a8a-544d-bbfe-9a7703cffee0@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Autism\, Trauma and th
+ e Vagus Nerve
 DTSTART;TZID=America/Los_Angeles:20260922T190000
 DTEND;TZID=America/Los_Angeles:20260922T203000
 DESCRIPTION:What happens when the world feels fundamentally unsafe—when i
@@ -544,10 +580,10 @@ CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:81c23c86-89a3-536e-b8f9-76ea61d1f992@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Scapegoating and the Expectation of Harm: Understanding and Heali
- ng
+UID:8287eaa2-0665-51e6-a9ca-379b1d1abe37@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Scapegoating and the E
+ xpectation of Harm: Understanding and Healing
 DTSTART;TZID=America/Los_Angeles:20261027T190000
 DTEND;TZID=America/Los_Angeles:20261027T203000
 DESCRIPTION:What happens when the body expects to be blamed? To be the on
@@ -564,9 +600,10 @@ CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:37883bd0-5a91-5116-8a52-608e3cc5438f@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Celebrating Boredom’s Invitation into Rich Relationship
+UID:d4e31350-1db1-5c40-8d7e-fb51caff86d0@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Celebrating Boredom’s 
+ Invitation into Rich Relationship
 DTSTART;TZID=America/Los_Angeles:20261117T190000
 DTEND;TZID=America/Los_Angeles:20261117T203000
 DESCRIPTION:Do you ever long to have friends and partners be really inter
@@ -587,9 +624,10 @@ CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:1dd93b7b-7a69-5ca2-91bf-1056ef2dec2e@calendar-generator
-DTSTAMP:20251119T044152Z
-SUMMARY:Free December Process Work Webinar
+UID:6dce9f11-28e1-575d-8bf3-a1f406bac941@calendar-generator
+DTSTAMP:20251119T091117Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Free December Process 
+ Work Webinar
 DTSTART;TZID=America/Los_Angeles:20261208T190000
 DTEND;TZID=America/Los_Angeles:20261208T203000
 DESCRIPTION:To be announced.
