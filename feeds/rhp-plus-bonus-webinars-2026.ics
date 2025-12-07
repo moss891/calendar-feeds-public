@@ -4,16 +4,6 @@ PRODID:-//Calendar Generator//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:2e90e0f0-b716-5d51-9aaa-bdd39e69113a@calendar-generator
-DTSTAMP:20251121T065405Z
-SUMMARY:Journeyperson Onboarding Call with Sarah — RHP Program 2026
-DTSTART;TZID=America/Los_Angeles:20251213T070000
-DTEND;TZID=America/Los_Angeles:20251213T100000
-LOCATION:Online (Zoom)
-CATEGORIES:Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
 UID:9095c473-9a11-590c-a66d-b6d124bed8b0@calendar-generator
 DTSTAMP:20251121T065405Z
 SUMMARY:Participants' Orientation Call — RHP Program 2026
@@ -514,36 +504,6 @@ DTSTAMP:20251121T065405Z
 SUMMARY:Community Call – Late — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20261217T230000
 DTEND;TZID=America/Los_Angeles:20261218T003000
-LOCATION:Online (Zoom)
-CATEGORIES:Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:dcb27a39-4b83-5178-8a2b-be2bcb7c011f@calendar-generator
-DTSTAMP:20251121T065405Z
-SUMMARY:Journeyperson Supervision with Sarah — RHP Program 2026
-DTSTART;TZID=America/Los_Angeles:20260412T080000
-DTEND;TZID=America/Los_Angeles:20260412T100000
-LOCATION:Online (Zoom)
-CATEGORIES:Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:e0af2588-b037-5b9d-a7cb-f861e747221b@calendar-generator
-DTSTAMP:20251121T065405Z
-SUMMARY:Journeyperson Supervision with Sarah — RHP Program 2026
-DTSTART;TZID=America/Los_Angeles:20260802T080000
-DTEND;TZID=America/Los_Angeles:20260802T100000
-LOCATION:Online (Zoom)
-CATEGORIES:Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:c0cbae75-3a47-5136-b721-a9cefd335508@calendar-generator
-DTSTAMP:20251121T065405Z
-SUMMARY:Journeyperson Supervision with Sarah — RHP Program 2026
-DTSTART;TZID=America/Los_Angeles:20261206T080000
-DTEND;TZID=America/Los_Angeles:20261206T100000
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
