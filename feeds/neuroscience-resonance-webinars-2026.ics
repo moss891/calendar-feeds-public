@@ -4,8 +4,8 @@ PRODID:-//Calendar Generator//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:355f1f72-e4c4-5af4-9a84-77fefedf0233@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:12c1bcd5-849e-5551-a694-87d48d4e7f83@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Allowing Nourishment: 
  Digestion and Attachment
 DTSTART;TZID=America/Los_Angeles:20260113T190000
@@ -21,15 +21,13 @@ DESCRIPTION:What does it mean to be fed—not just with food\, but with car
  nzymes\, acids\, the microbiome and the slow churn of digestion. Join Sa
  rah Peyton for a journey into the intersections of nourishment\, trust\,
   and relational metabolism.
-URL:https://us02web.zoom.us/j/87531642284?pwd=bKslBw6a0xvWEoLwY3buS1olF3s
- XSo.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:67b7e748-de8a-55a3-b1e4-08fa1ea10b7c@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:6d855880-0f05-52fe-bc24-daa820aa293f@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – The Immune System and 
  Our Relational Metabolism
 DTSTART;TZID=America/Los_Angeles:20260224T190000
@@ -45,15 +43,13 @@ DESCRIPTION:Our immune systems don’t just fight off germs—they remember e
   What might it mean to allow nourishment again? Join Sarah Peyton for an
   exploration of the biology of boundaries and the tender intelligence of
   our inner defenders.
-URL:https://us02web.zoom.us/j/88564281873?pwd=qMmyquiL1IGcgSB1tmtbc4s6OtA
- aka.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:e6d51020-9ea5-5435-a456-e640de8e33c2@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:c1eb697f-ea5a-53ae-9288-115fc245c7fe@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Lifelong Alarmed Alone
  ness: Approaches to Healing
 DTSTART;TZID=America/Los_Angeles:20260317T190000
@@ -66,15 +62,13 @@ DESCRIPTION:What happens when the people we needed most were not there? W
   in our nervous system\, and the surprising pathways toward soothing and
   repair. Join Sarah Peyton for a dive into the roots and routes of heali
  ng from chronic relational absence.
-URL:https://us02web.zoom.us/j/83443282586?pwd=JbaMvpx21I37ylR8dR2r8IhlP8S
- IsH.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:a8f93908-86dc-586d-b747-4a179b924301@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:8d2e4701-ead7-555b-a190-188f5ca95ba5@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Fawning\, the Vagus Ne
  rve and Ambivalent Attachment
 DTSTART;TZID=America/Los_Angeles:20260428T190000
@@ -90,15 +84,13 @@ DESCRIPTION:Have you ever smiled when your heart wanted to scream? Or sai
  to fix them\, but to understand and appreciate their roots. Join Sarah P
  eyton for an inquiry into fawning\, nervous system intelligence\, and th
  e longings underneath compliance.
-URL:https://us02web.zoom.us/j/85997871326?pwd=cwCYnPMPxWaaq6HF2LkXpxxasCc
- a31.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:d1f6cc05-93f3-5814-b7de-1754ebb239f7@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:9293f790-56fb-5cff-ad3c-7fb75117baf0@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Living in Fantasy: Esc
  apism and Avoidant Attachment
 DTSTART;TZID=America/Los_Angeles:20260526T190000
@@ -113,15 +105,13 @@ DESCRIPTION:When reality feels too sharp to touch\, fantasy becomes a bal
  orn under pressure? Join Sarah Peyton in a gentle unmasking of avoidance
   as both an ache and a strategy\, and a tender invitation back to presen
  ce.
-URL:https://us02web.zoom.us/j/85208046997?pwd=klz4SkhxXqqdknKHI6LkELA3VC8
- uQK.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:5aa848a2-7050-518a-a058-ff71f2ca8908@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:eba27239-abe8-5908-b729-ccc2f439300a@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Living in Reality: Tru
  st and Surrender
 DTSTART;TZID=America/Los_Angeles:20260623T190000
@@ -134,15 +124,13 @@ DESCRIPTION:What does it take to soften into the now? To meet another per
  or what the moment invites. Join Sarah Peyton for a look at reality as a
   relational space\, alive with the potential for new nervous system patt
  erns and deepened trust.
-URL:https://us02web.zoom.us/j/84694523385?pwd=DabazAauk3GFBZ5btvFyNUloW7c
- XpM.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:a1eb7891-fb06-5bbf-8b03-4081205ed8d4@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:7bc01f48-45aa-5a0d-b301-458152c2f34c@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Healing Community Iden
  tity and Solidarity after Trauma
 DTSTART;TZID=America/Los_Angeles:20260721T190000
@@ -156,15 +144,13 @@ DESCRIPTION:When trauma\, whether its natural disaster or violence caused
  st? How do we listen to each other’s pain without collapsing or competin
  g? Join Sarah Peyton for a journey into the relational fields of communi
  ty\, trauma\, and the slow rebuilding of trust through solidarity.
-URL:https://us02web.zoom.us/j/84938362112?pwd=HMtQZD4xk0QFmsc4GxGkLlVYDR2
- Fdf.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:b6892d98-08f5-56b0-9b76-60c210805da4@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:af3d192c-0fb4-5ea5-a048-688332222af9@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Self-Compassion and Ag
  ing: Neurobiology and Self-Relationship
 DTSTART;TZID=America/Los_Angeles:20260825T190000
@@ -177,15 +163,13 @@ DESCRIPTION:As time paints lines on our faces and slows our steps\, how d
  dgment against ourselves. Join Sarah Peyton to reflect on what it means 
  to grow older in relationship with oneself. We invite warmth\, curiosity
  \, and the possibility of rewiring old loops into new tenderness.
-URL:https://us02web.zoom.us/j/86404319135?pwd=xjf1sUafcV8vRAebezk2XxXQ4al
- Fp8.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:c53414c4-ddd5-574c-ba38-c96ca5baa928@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:524e0e87-a67d-53f8-8865-90ee19c5cf54@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Autism\, Trauma and th
  e Vagus Nerve
 DTSTART;TZID=America/Los_Angeles:20260922T190000
@@ -199,15 +183,13 @@ DESCRIPTION:What happens when the world feels fundamentally unsafe\, whet
   systems that need something different from the world? Join Sarah Peyton
   for a session grounded in neuroscience\, resonance\, and the celebratio
  n of diverse relational rhythms.
-URL:https://us02web.zoom.us/j/89213838700?pwd=6nXanl11JtxD70fmUsq9IWLSKzw
- af4.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:a60829d1-b46a-5827-95e1-73cdcb722c43@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:4add901e-69d4-5aa0-bd7f-521d62f7b301@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Scapegoating and the E
  xpectation of Harm: Understanding and Healing
 DTSTART;TZID=America/Los_Angeles:20261027T190000
@@ -220,15 +202,13 @@ DESCRIPTION:What happens when the body expects to be blamed? To be the on
  dy believe about your place in the group? And what becomes possible when
   we interrupt the story that harm is inevitable? Join Sarah Peyton for a
   compassionate exploration of scapegoating\, belonging\, and repair.
-URL:https://us02web.zoom.us/j/88908504790?pwd=sFbqaQCl0eJbDKoMZqF0iN3nEqb
- 4av.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:fd9d5e14-079f-550f-9857-a63089050d13@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:2e8328b0-54aa-5954-a67c-966334da3074@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Celebrating Boredom’s 
  Invitation into Rich Relationship
 DTSTART;TZID=America/Los_Angeles:20261117T190000
@@ -246,24 +226,20 @@ DESCRIPTION:Do you ever long to have friends and partners be really inter
  ut from genuine presence? Join Sarah Peyton for a deep dive into the hea
  rt of relational boredom\, and the possibility it holds for richer\, mor
  e attuned connection.
-URL:https://us02web.zoom.us/j/81695047654?pwd=uL99a6aa10XrDl0mfUgcHx6bG4C
- gFF.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:5c62ead8-cc5e-5cce-86f2-4d690780a758@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:fefe7466-0de2-5524-8cb4-0fb8651841ef@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Free December Process 
  Work Webinar
 DTSTART;TZID=America/Los_Angeles:20261208T190000
 DTEND;TZID=America/Los_Angeles:20261208T203000
 DESCRIPTION:To be announced.
-URL:https://us02web.zoom.us/j/88200400626?pwd=yLYRkpxrpN6g7TSwZwftDXL8if2
- zGk.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 END:VCALENDAR

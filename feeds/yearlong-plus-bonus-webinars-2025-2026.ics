@@ -4,383 +4,325 @@ PRODID:-//Calendar Generator//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:5c63ea0e-ccd3-52b8-82fb-b9efc2c1cde1@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:c2ebb46c-821a-5d70-9e38-6661ff0ecc9d@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 1 – How Warmth is Foundat
  ional for Nourishment – Week 1
 DTSTART;TZID=America/Los_Angeles:20251204T103000
 DTEND;TZID=America/Los_Angeles:20251204T115500
-URL:https://us02web.zoom.us/j/82369635249?pwd=vxrakmUY2Q7JGH8WAPyoIHfqth4
- E3x.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:6aaa8c37-2854-594f-93c3-66f3e7b5e3da@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:d17871d7-80a4-5755-89e5-510e34c7e870@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 1 – How Warmth is Foundat
  ional for Nourishment – Week 2
 DTSTART;TZID=America/Los_Angeles:20251211T103000
 DTEND;TZID=America/Los_Angeles:20251211T115500
-URL:https://us02web.zoom.us/j/82369635249?pwd=vxrakmUY2Q7JGH8WAPyoIHfqth4
- E3x.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:3b226438-7975-53ff-81b4-6381f8099a34@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:6fee8184-b7c4-5653-a046-b8ca03674673@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 2 – How Trauma Stops Nour
  ishment – Week 3
 DTSTART;TZID=America/Los_Angeles:20251218T103000
 DTEND;TZID=America/Los_Angeles:20251218T115500
-URL:https://us02web.zoom.us/j/82369635249?pwd=vxrakmUY2Q7JGH8WAPyoIHfqth4
- E3x.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:9ebe2473-2cda-5dae-96a7-1bd5e1b7227d@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:74c28d04-c19a-508f-b78b-2e40e9a783d4@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 2 – How Trauma Stops Nour
  ishment – Week 4
 DTSTART;TZID=America/Los_Angeles:20260108T103000
 DTEND;TZID=America/Los_Angeles:20260108T115500
-URL:https://us02web.zoom.us/j/82369635249?pwd=vxrakmUY2Q7JGH8WAPyoIHfqth4
- E3x.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:8c998b7a-80f7-5f4d-b592-7d1e6665f1ed@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:c4d0d6e6-1ce7-5619-a18d-225a57da91b9@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 3 – Self-Care Through Ins
  trumental and Relational Lenses – Week 5
 DTSTART;TZID=America/Los_Angeles:20260115T103000
 DTEND;TZID=America/Los_Angeles:20260115T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:74e52f82-4a6a-5dfb-a821-94ccf661ddfb@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:437a973e-7814-5e6d-b521-665e083acb0a@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 3 – Self-Care Through Ins
  trumental and Relational Lenses – Week 6
 DTSTART;TZID=America/Los_Angeles:20260122T103000
 DTEND;TZID=America/Los_Angeles:20260122T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:108d3034-9534-59ea-82df-57112df9e157@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:45b57cd6-4dea-53d2-ad48-48bb91d90890@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 4 – How Healing Shame Hea
  ls Our Ability to Receive – Week 7
 DTSTART;TZID=America/Los_Angeles:20260205T103000
 DTEND;TZID=America/Los_Angeles:20260205T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:883da30c-3c69-5aee-8118-364bb340e815@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:b3892a86-15a6-506b-a056-cdf15c3a63bb@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 4 – How Healing Shame Hea
  ls Our Ability to Receive – Week 8
 DTSTART;TZID=America/Los_Angeles:20260226T103000
 DTEND;TZID=America/Los_Angeles:20260226T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:114ccfb3-1856-5753-a404-838b3ff5b5f1@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:c8f5acde-9127-545d-a928-d11eaeeebb16@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 5 – Anxiety and Alarmed A
  loneness in Receiving Love – Week 9
 DTSTART;TZID=America/Los_Angeles:20260305T103000
 DTEND;TZID=America/Los_Angeles:20260305T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:2c061754-9e36-5003-a115-54ac351745e9@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:6793b009-a735-5ff1-9f15-599c66f6e5bd@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 5 – Anxiety and Alarmed A
  loneness in Receiving Love – Week 10
 DTSTART;TZID=America/Los_Angeles:20260319T103000
 DTEND;TZID=America/Los_Angeles:20260319T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:b66ea2d3-b054-5563-b9aa-09b525e1e8d4@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:403fd102-9cd1-5882-8996-6b587c6eaf40@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 6 – Life-Serving Rage as 
  Fuel and Doorway to Differentiation – Week 11
 DTSTART;TZID=America/Los_Angeles:20260402T103000
 DTEND;TZID=America/Los_Angeles:20260402T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:d25c9c25-4827-5ae0-ae96-1d9061b8ae70@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:b82e257f-b774-512b-9c73-7a33d62786ff@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 6 – Life-Serving Rage as 
  Fuel and Doorway to Differentiation – Week 12
 DTSTART;TZID=America/Los_Angeles:20260409T103000
 DTEND;TZID=America/Los_Angeles:20260409T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:eaa97c3c-7188-5460-9436-12d6c090ff97@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:48e20e5c-7655-5fe0-bf26-575a6c6d6105@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 7 – From Dissociation int
  o Embodiment – Week 13
 DTSTART;TZID=America/Los_Angeles:20260416T103000
 DTEND;TZID=America/Los_Angeles:20260416T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:94c00d67-54c4-5492-b0e3-48fa81bd5a2e@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:1f127e3a-5d0b-5e54-af7a-6f4aea95d3af@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 7 – From Dissociation int
  o Embodiment – Week 14
 DTSTART;TZID=America/Los_Angeles:20260423T103000
 DTEND;TZID=America/Los_Angeles:20260423T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:dd1e5747-b1e4-5f98-b88b-bc67d817e24d@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:292440f2-0685-52d8-a5ff-6524daf5d187@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 8 – Attachment and Freedo
  m – Week 15
 DTSTART;TZID=America/Los_Angeles:20260507T103000
 DTEND;TZID=America/Los_Angeles:20260507T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:5ce518ed-8b4d-5b00-9deb-04142ec1f43a@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:2b5b8269-967c-5c0f-a62f-3470d492c018@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 8 – Attachment and Freedo
  m – Week 16
 DTSTART;TZID=America/Los_Angeles:20260521T103000
 DTEND;TZID=America/Los_Angeles:20260521T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:e9f8073e-983d-57e6-92ab-fc91d6f5bf66@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:f76de9a9-00af-554c-ad9a-5d39adbe7c96@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 8 – Attachment and Freedo
  m – Week 17
 DTSTART;TZID=America/Los_Angeles:20260528T103000
 DTEND;TZID=America/Los_Angeles:20260528T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:bf5c7836-2301-57a9-95ab-6889f25b223c@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:bfea4379-ef13-59c4-8c71-9a409f8bdfd4@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Bonus Q&A – Week 18
 DTSTART;TZID=America/Los_Angeles:20260611T103000
 DTEND;TZID=America/Los_Angeles:20260611T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:4651b57a-8697-52c0-8458-e57b25710dc8@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:cf4a7eee-aa3a-537b-9b36-ea42f00a2334@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 9 – How Disorganization D
  isrupts Nourishment – Week 19
 DTSTART;TZID=America/Los_Angeles:20260618T103000
 DTEND;TZID=America/Los_Angeles:20260618T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:c95e0040-eff1-59d7-b4d2-0097211d4372@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:db00c36e-3a0c-5a42-9c61-119661350169@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 9 – How Disorganization D
  isrupts Nourishment – Week 20
 DTSTART;TZID=America/Los_Angeles:20260709T103000
 DTEND;TZID=America/Los_Angeles:20260709T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:0a2d00f8-1dbe-572f-98af-9004d8959cbe@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:fd326b61-e4ea-5636-a0dc-57ab198e536c@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 10 – A New Look at Depres
  sion – Week 21
 DTSTART;TZID=America/Los_Angeles:20260723T103000
 DTEND;TZID=America/Los_Angeles:20260723T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:6efec58e-70b9-56ed-a03d-d2f5d59a3555@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:9cf45baa-9e50-5b9d-9311-5cc649e20a1f@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 10 – A New Look at Depres
  sion – Week 22
 DTSTART;TZID=America/Los_Angeles:20260813T103000
 DTEND;TZID=America/Los_Angeles:20260813T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:52edabf3-12a3-520f-8680-1c343866cfbe@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:a004f04b-dc20-58df-a8bd-60affcc00862@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 11 – Addiction as Transge
  nerational Hunger – Week 23
 DTSTART;TZID=America/Los_Angeles:20260903T103000
 DTEND;TZID=America/Los_Angeles:20260903T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:74c1a6b9-6b1b-59a8-8296-8c8beb8d2e1f@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:c3647048-e68c-5063-adda-ebf554a07b73@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 11 – Addiction as Transge
  nerational Hunger – Week 24
 DTSTART;TZID=America/Los_Angeles:20260917T103000
 DTEND;TZID=America/Los_Angeles:20260917T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:202495ec-5d38-553f-a171-476749d3bf99@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:fd1db4bd-81d6-56e0-867f-31af89230555@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 12 – Sexuality\, Emergenc
  e\, and Nourishment – Week 25
 DTSTART;TZID=America/Los_Angeles:20260924T103000
 DTEND;TZID=America/Los_Angeles:20260924T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:2a6ec6e9-efc5-5be5-ba15-85e7a7003e68@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:d9fe8493-7b1c-55d6-9bd4-04b49ca21020@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 12 – Sexuality\, Emergenc
  e\, and Nourishment – Week 26
 DTSTART;TZID=America/Los_Angeles:20261015T103000
 DTEND;TZID=America/Los_Angeles:20261015T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:74e5c37b-a9d8-5434-acd6-9a7dab5f86a7@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:aae31cab-b620-5f8a-817f-b11e4e757507@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 13 – Reclaiming Joy – Wee
  k 27
 DTSTART;TZID=America/Los_Angeles:20261022T103000
 DTEND;TZID=America/Los_Angeles:20261022T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:48e22171-7308-5561-b453-078fa0de959a@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:d58a884a-f392-5c2a-94ae-d3ab53451203@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Ch 13 – Reclaiming Joy – Wee
  k 28
 DTSTART;TZID=America/Los_Angeles:20261029T103000
 DTEND;TZID=America/Los_Angeles:20261029T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:3fb33225-2c6d-5a74-b84b-b3d11aebbc7b@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:fcc4bf56-5932-52fe-9a4c-620ad3ea17ee@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:Lifting the Shadow Off Nourishment – Closing Session – Week 29
 DTSTART;TZID=America/Los_Angeles:20261105T103000
 DTEND;TZID=America/Los_Angeles:20261105T115500
-URL:https://us02web.zoom.us/j/81819117645?pwd=9QIZfBEBBfrxgcyGvVBM10GOEbA
- wkR.1
 LOCATION:Online (Zoom)
 CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:355f1f72-e4c4-5af4-9a84-77fefedf0233@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:12c1bcd5-849e-5551-a694-87d48d4e7f83@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Allowing Nourishment: 
  Digestion and Attachment
 DTSTART;TZID=America/Los_Angeles:20260113T190000
@@ -396,15 +338,13 @@ DESCRIPTION:What does it mean to be fed—not just with food\, but with car
  nzymes\, acids\, the microbiome and the slow churn of digestion. Join Sa
  rah Peyton for a journey into the intersections of nourishment\, trust\,
   and relational metabolism.
-URL:https://us02web.zoom.us/j/87531642284?pwd=bKslBw6a0xvWEoLwY3buS1olF3s
- XSo.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:67b7e748-de8a-55a3-b1e4-08fa1ea10b7c@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:6d855880-0f05-52fe-bc24-daa820aa293f@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – The Immune System and 
  Our Relational Metabolism
 DTSTART;TZID=America/Los_Angeles:20260224T190000
@@ -420,15 +360,13 @@ DESCRIPTION:Our immune systems don’t just fight off germs—they remember e
   What might it mean to allow nourishment again? Join Sarah Peyton for an
   exploration of the biology of boundaries and the tender intelligence of
   our inner defenders.
-URL:https://us02web.zoom.us/j/88564281873?pwd=qMmyquiL1IGcgSB1tmtbc4s6OtA
- aka.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:e6d51020-9ea5-5435-a456-e640de8e33c2@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:c1eb697f-ea5a-53ae-9288-115fc245c7fe@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Lifelong Alarmed Alone
  ness: Approaches to Healing
 DTSTART;TZID=America/Los_Angeles:20260317T190000
@@ -441,15 +379,13 @@ DESCRIPTION:What happens when the people we needed most were not there? W
   in our nervous system\, and the surprising pathways toward soothing and
   repair. Join Sarah Peyton for a dive into the roots and routes of heali
  ng from chronic relational absence.
-URL:https://us02web.zoom.us/j/83443282586?pwd=JbaMvpx21I37ylR8dR2r8IhlP8S
- IsH.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:a8f93908-86dc-586d-b747-4a179b924301@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:8d2e4701-ead7-555b-a190-188f5ca95ba5@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Fawning\, the Vagus Ne
  rve and Ambivalent Attachment
 DTSTART;TZID=America/Los_Angeles:20260428T190000
@@ -465,15 +401,13 @@ DESCRIPTION:Have you ever smiled when your heart wanted to scream? Or sai
  to fix them\, but to understand and appreciate their roots. Join Sarah P
  eyton for an inquiry into fawning\, nervous system intelligence\, and th
  e longings underneath compliance.
-URL:https://us02web.zoom.us/j/85997871326?pwd=cwCYnPMPxWaaq6HF2LkXpxxasCc
- a31.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:d1f6cc05-93f3-5814-b7de-1754ebb239f7@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:9293f790-56fb-5cff-ad3c-7fb75117baf0@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Living in Fantasy: Esc
  apism and Avoidant Attachment
 DTSTART;TZID=America/Los_Angeles:20260526T190000
@@ -488,15 +422,13 @@ DESCRIPTION:When reality feels too sharp to touch\, fantasy becomes a bal
  orn under pressure? Join Sarah Peyton in a gentle unmasking of avoidance
   as both an ache and a strategy\, and a tender invitation back to presen
  ce.
-URL:https://us02web.zoom.us/j/85208046997?pwd=klz4SkhxXqqdknKHI6LkELA3VC8
- uQK.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:5aa848a2-7050-518a-a058-ff71f2ca8908@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:eba27239-abe8-5908-b729-ccc2f439300a@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Living in Reality: Tru
  st and Surrender
 DTSTART;TZID=America/Los_Angeles:20260623T190000
@@ -509,15 +441,13 @@ DESCRIPTION:What does it take to soften into the now? To meet another per
  or what the moment invites. Join Sarah Peyton for a look at reality as a
   relational space\, alive with the potential for new nervous system patt
  erns and deepened trust.
-URL:https://us02web.zoom.us/j/84694523385?pwd=DabazAauk3GFBZ5btvFyNUloW7c
- XpM.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:a1eb7891-fb06-5bbf-8b03-4081205ed8d4@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:7bc01f48-45aa-5a0d-b301-458152c2f34c@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Healing Community Iden
  tity and Solidarity after Trauma
 DTSTART;TZID=America/Los_Angeles:20260721T190000
@@ -531,15 +461,13 @@ DESCRIPTION:When trauma\, whether its natural disaster or violence caused
  st? How do we listen to each other’s pain without collapsing or competin
  g? Join Sarah Peyton for a journey into the relational fields of communi
  ty\, trauma\, and the slow rebuilding of trust through solidarity.
-URL:https://us02web.zoom.us/j/84938362112?pwd=HMtQZD4xk0QFmsc4GxGkLlVYDR2
- Fdf.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:b6892d98-08f5-56b0-9b76-60c210805da4@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:af3d192c-0fb4-5ea5-a048-688332222af9@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Self-Compassion and Ag
  ing: Neurobiology and Self-Relationship
 DTSTART;TZID=America/Los_Angeles:20260825T190000
@@ -552,15 +480,13 @@ DESCRIPTION:As time paints lines on our faces and slows our steps\, how d
  dgment against ourselves. Join Sarah Peyton to reflect on what it means 
  to grow older in relationship with oneself. We invite warmth\, curiosity
  \, and the possibility of rewiring old loops into new tenderness.
-URL:https://us02web.zoom.us/j/86404319135?pwd=xjf1sUafcV8vRAebezk2XxXQ4al
- Fp8.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:c53414c4-ddd5-574c-ba38-c96ca5baa928@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:524e0e87-a67d-53f8-8865-90ee19c5cf54@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Autism\, Trauma and th
  e Vagus Nerve
 DTSTART;TZID=America/Los_Angeles:20260922T190000
@@ -574,15 +500,13 @@ DESCRIPTION:What happens when the world feels fundamentally unsafe\, whet
   systems that need something different from the world? Join Sarah Peyton
   for a session grounded in neuroscience\, resonance\, and the celebratio
  n of diverse relational rhythms.
-URL:https://us02web.zoom.us/j/89213838700?pwd=6nXanl11JtxD70fmUsq9IWLSKzw
- af4.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:a60829d1-b46a-5827-95e1-73cdcb722c43@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:4add901e-69d4-5aa0-bd7f-521d62f7b301@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Scapegoating and the E
  xpectation of Harm: Understanding and Healing
 DTSTART;TZID=America/Los_Angeles:20261027T190000
@@ -595,15 +519,13 @@ DESCRIPTION:What happens when the body expects to be blamed? To be the on
  dy believe about your place in the group? And what becomes possible when
   we interrupt the story that harm is inevitable? Join Sarah Peyton for a
   compassionate exploration of scapegoating\, belonging\, and repair.
-URL:https://us02web.zoom.us/j/88908504790?pwd=sFbqaQCl0eJbDKoMZqF0iN3nEqb
- 4av.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:fd9d5e14-079f-550f-9857-a63089050d13@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:2e8328b0-54aa-5954-a67c-966334da3074@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Celebrating Boredom’s 
  Invitation into Rich Relationship
 DTSTART;TZID=America/Los_Angeles:20261117T190000
@@ -621,24 +543,20 @@ DESCRIPTION:Do you ever long to have friends and partners be really inter
  ut from genuine presence? Join Sarah Peyton for a deep dive into the hea
  rt of relational boredom\, and the possibility it holds for richer\, mor
  e attuned connection.
-URL:https://us02web.zoom.us/j/81695047654?pwd=uL99a6aa10XrDl0mfUgcHx6bG4C
- gFF.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:5c62ead8-cc5e-5cce-86f2-4d690780a758@calendar-generator
-DTSTAMP:20251215T025754Z
+UID:fefe7466-0de2-5524-8cb4-0fb8651841ef@calendar-generator
+DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Free December Process 
  Work Webinar
 DTSTART;TZID=America/Los_Angeles:20261208T190000
 DTEND;TZID=America/Los_Angeles:20261208T203000
 DESCRIPTION:To be announced.
-URL:https://us02web.zoom.us/j/88200400626?pwd=yLYRkpxrpN6g7TSwZwftDXL8if2
- zGk.1
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 END:VCALENDAR

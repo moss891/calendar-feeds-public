@@ -4,686 +4,791 @@ PRODID:-//Calendar Generator//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:1bc799de-5c99-576f-adda-20812969e87e@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Participants' Orientation Call
+UID:9095c473-9a11-590c-a66d-b6d124bed8b0@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Participants' Orientation Call — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260103T080000
 DTEND;TZID=America/Los_Angeles:20260103T110000
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:70c1645b-c678-511e-9468-64bd555c4b4b@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:RHP Decolonization Module – Day 1
+UID:16f38a2f-0b1d-588e-8678-e8e483f83ed3@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Decolonization Module – Day 1 — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260110T070000
 DTEND;TZID=America/Los_Angeles:20260110T140000
 DESCRIPTION:Includes a 1-hour break from 11:00 AM–12:00 PM PT.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:18f48ec5-d277-54a3-ba2a-d01d5f2f702c@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:RHP Decolonization Module – Day 2
+UID:4831822e-4822-5219-b250-0410f21deb74@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Decolonization Module – Day 2 — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260111T070000
 DTEND;TZID=America/Los_Angeles:20260111T140000
 DESCRIPTION:Includes a 1-hour break from 11:00 AM–12:00 PM PT.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:12c1bcd5-849e-5551-a694-87d48d4e7f83@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:2026 Neuroscience and Resonance Webinars – Allowing Nourishment: 
- Digestion and Attachment
-DTSTART;TZID=America/Los_Angeles:20260113T190000
-DTEND;TZID=America/Los_Angeles:20260113T203000
-DESCRIPTION:What does it mean to be fed—not just with food\, but with car
- e\, presence\, and attunement? In the early kitchens of our lives\, wher
- e relationships simmer alongside dinner plates\, our capacity to receive
-  nourishment is formed. Was it safe to be full? Or did hunger feel more 
- familiar? We begin in the gut and the breath—where digestion\, trauma\, 
- and attachment first root themselves. Here\, we tune into the body's qui
- et knowing. We bring our attention to the gut as a place of intuition an
- d decision-making\, where attachment lives not only in feelings but in e
- nzymes\, acids\, the microbiome and the slow churn of digestion. Join Sa
- rah Peyton for a journey into the intersections of nourishment\, trust\,
-  and relational metabolism.
-LOCATION:Online (Zoom)
-CATEGORIES:Webinar
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:52d27c21-9d8a-50ae-82a4-aa4abf958ea8@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:RHP Module I – Day 1
+UID:7151aac4-6652-525c-9c54-f438492fe062@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module I – Day 1 — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260128T070000
 DTEND;TZID=America/Los_Angeles:20260128T140000
 DESCRIPTION:Module I. Includes a 1-hour break from 11:00 AM–12:00 PM PT.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:34a2c862-4faf-52b1-8dd6-c2f844ce2f61@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:RHP Module I – Day 2
+UID:8a854a5d-cda9-53cd-a4ef-514e1a69d75f@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module I – Day 2 — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260129T070000
 DTEND;TZID=America/Los_Angeles:20260129T140000
 DESCRIPTION:Module I. Includes a 1-hour break from 11:00 AM–12:00 PM PT.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:9ee0e150-f685-5b86-bd4a-42c4afe85f1d@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:RHP Module I – Day 3
+UID:6de1e88a-3d7b-55f4-b35b-a244b273ce8c@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module I – Day 3 — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260130T070000
 DTEND;TZID=America/Los_Angeles:20260130T140000
 DESCRIPTION:Module I. Includes a 1-hour break from 11:00 AM–12:00 PM PT.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:e3ce14f3-d669-56f6-99f4-116dbb5aef17@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:RHP Module I – Day 4
+UID:b74b36d9-b578-5cc6-8a17-93a5240b2d95@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module I – Day 4 — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260131T070000
 DTEND;TZID=America/Los_Angeles:20260131T140000
 DESCRIPTION:Module I. Includes a 1-hour break from 11:00 AM–12:00 PM PT.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:0be7691e-28f8-5dcc-9340-f1148ec70c88@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:RHP Module I – Day 5
+UID:c6f95816-06c1-5c77-ae82-91f92eb0a34f@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module I – Day 5 — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260201T070000
 DTEND;TZID=America/Los_Angeles:20260201T140000
 DESCRIPTION:Module I. Includes a 1-hour break from 11:00 AM–12:00 PM PT.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:5123e82f-0a74-5ded-b935-2b45610f6640@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:RHP Giving & Receiving Feedback Session
+UID:7df6f313-8791-5a9c-b003-c4f6441b1d66@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Feedback Day – Giving and Receiving Feedback — RHP Program 20
+ 26
 DTSTART;TZID=America/Los_Angeles:20260208T070000
 DTEND;TZID=America/Los_Angeles:20260208T140000
-DESCRIPTION:Special one-day feedback session. Includes a 1-hour break fro
- m 11:00 AM–12:00 PM PT.
+DESCRIPTION:Special one-day session on giving and receiving feedback. Inc
+ ludes a 1-hour break from 11:00 AM–12:00 PM PT.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:99dfb16d-35d2-568f-aef1-fc2344962f52@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Early
-DTSTART;TZID=America/Los_Angeles:20260219T080000
-DTEND;TZID=America/Los_Angeles:20260219T093000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:b6997a3d-603f-5d0e-a580-c785f09b20bf@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Late
-DTSTART;TZID=America/Los_Angeles:20260219T230000
-DTEND;TZID=America/Los_Angeles:20260220T003000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:e04ab4db-8028-5bc5-9f29-176768214e11@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Process Work Call with Sarah
-DTSTART;TZID=America/Los_Angeles:20260222T080000
-DTEND;TZID=America/Los_Angeles:20260222T100000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:6d855880-0f05-52fe-bc24-daa820aa293f@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:2026 Neuroscience and Resonance Webinars – The Immune System and 
- Our Relational Metabolism
-DTSTART;TZID=America/Los_Angeles:20260224T190000
-DTEND;TZID=America/Los_Angeles:20260224T203000
-DESCRIPTION:Our immune systems don’t just fight off germs—they remember e
- xperiences. They carry the imprints of betrayal and belonging\, of safet
- y and suspicion. In the ecology of our bodies\, relationships leave resi
- due: inflammation\, changes and modifications to cells\, and epigenetic 
- movement. What patterns of protection and perception have become embedde
- d in our tissue? What stories does your immune system carry from the rel
- ationships that shaped you? How does your body decide what is welcome\, 
- and what must be defended against\, and how to prioritize its resources?
-  What might it mean to allow nourishment again? Join Sarah Peyton for an
-  exploration of the biology of boundaries and the tender intelligence of
-  our inner defenders.
-LOCATION:Online (Zoom)
-CATEGORIES:Webinar
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:bc46bcf8-dfcb-5aeb-90d6-a87637bbd77c@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Process Work Call with Sarah
-DTSTART;TZID=America/Los_Angeles:20260315T080000
-DTEND;TZID=America/Los_Angeles:20260315T100000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:c1eb697f-ea5a-53ae-9288-115fc245c7fe@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:2026 Neuroscience and Resonance Webinars – Lifelong Alarmed Alone
- ness: Approaches to Healing
-DTSTART;TZID=America/Los_Angeles:20260317T190000
-DTEND;TZID=America/Los_Angeles:20260317T203000
-DESCRIPTION:What happens when the people we needed most were not there? W
- hen early echoes of absence become background noise in our adult lives\,
-  shaping our sense of what connection even is? Alarmed aloneness is not 
- just a moment\; it’s a state that can settle in the bones. In this sessi
- on\, we look gently at the long arc of this pattern—the ways it shows up
-  in our nervous system\, and the surprising pathways toward soothing and
-  repair. Join Sarah Peyton for a dive into the roots and routes of heali
- ng from chronic relational absence.
-LOCATION:Online (Zoom)
-CATEGORIES:Webinar
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:c3b12a55-1827-5154-8c92-2a87426b38b2@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Early
-DTSTART;TZID=America/Los_Angeles:20260319T080000
-DTEND;TZID=America/Los_Angeles:20260319T093000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:a50eb3e3-aca9-5e93-a739-65b1327cf107@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Late
-DTSTART;TZID=America/Los_Angeles:20260319T230000
-DTEND;TZID=America/Los_Angeles:20260320T003000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:c7ea1c1d-4e52-529d-aaba-e34a3ee49bac@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Early
-DTSTART;TZID=America/Los_Angeles:20260416T080000
-DTEND;TZID=America/Los_Angeles:20260416T093000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:db820460-d1aa-542d-9642-9f4e7dc6d2e9@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Late
-DTSTART;TZID=America/Los_Angeles:20260416T230000
-DTEND;TZID=America/Los_Angeles:20260417T003000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:8d2e4701-ead7-555b-a190-188f5ca95ba5@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:2026 Neuroscience and Resonance Webinars – Fawning\, the Vagus Ne
- rve and Ambivalent Attachment
-DTSTART;TZID=America/Los_Angeles:20260428T190000
-DTEND;TZID=America/Los_Angeles:20260428T203000
-DESCRIPTION:Have you ever smiled when your heart wanted to scream? Or sai
- d yes while your body whispered no? How have we twisted ourselves to sta
- y close to love\, even when it harmed us? Fawning is the survival song w
- e learn to sing when love feels conditional. This session will look at t
- he dance between appeasement and attachment\, through the lens of the va
- gus nerve and its role in shaping our relational responses. What does yo
- ur body remember about how to stay close? And what becomes possible when
-  we can rewrite that script? We meet our strategies with tenderness—not 
- to fix them\, but to understand and appreciate their roots. Join Sarah P
- eyton for an inquiry into fawning\, nervous system intelligence\, and th
- e longings underneath compliance.
-LOCATION:Online (Zoom)
-CATEGORIES:Webinar
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:e80c61be-9f13-58a6-aee1-b035ce35d7f3@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:RHP Module II – Day 1
+UID:c1de4f3e-101d-59aa-9809-242eecb30f5f@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module II – Day 1 — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260513T070000
 DTEND;TZID=America/Los_Angeles:20260513T140000
 DESCRIPTION:Module II. Includes a 1-hour break from 11:00 AM–12:00 PM PT.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:bb47c562-8125-56d5-bba7-0f8e6864108a@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:RHP Module II – Day 2
+UID:662267b8-9a15-5967-95f8-6bfc35a7b660@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module II – Day 2 — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260514T070000
 DTEND;TZID=America/Los_Angeles:20260514T140000
 DESCRIPTION:Module II. Includes a 1-hour break from 11:00 AM–12:00 PM PT.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:7f933ae1-9417-5fcc-bcbf-bc62a62fe37d@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:RHP Module II – Day 3
+UID:d85d71bd-2d7f-594c-92e4-966fdef146bf@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module II – Day 3 — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260515T070000
 DTEND;TZID=America/Los_Angeles:20260515T140000
 DESCRIPTION:Module II. Includes a 1-hour break from 11:00 AM–12:00 PM PT.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:085895de-bf51-5940-b3ed-6700ce1c0a0b@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:RHP Module II – Day 4
+UID:fad90757-9bcf-5955-b69d-7afe5cb69ee3@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module II – Day 4 — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260516T070000
 DTEND;TZID=America/Los_Angeles:20260516T140000
 DESCRIPTION:Module II. Includes a 1-hour break from 11:00 AM–12:00 PM PT.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:4637fc41-07ea-5016-8893-4c392360d926@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:RHP Module II – Day 5
+UID:7f4b2dea-74fc-591e-96a9-b363b185f7ae@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module II – Day 5 — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260517T070000
 DTEND;TZID=America/Los_Angeles:20260517T140000
 DESCRIPTION:Module II. Includes a 1-hour break from 11:00 AM–12:00 PM PT.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:38b89afa-fe8f-5b52-982c-779ec63c9f19@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Early
-DTSTART;TZID=America/Los_Angeles:20260521T080000
-DTEND;TZID=America/Los_Angeles:20260521T093000
+UID:b3c37a86-92d6-585e-abd2-5f0ed3cd670e@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module III – Day 1 — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20261007T070000
+DTEND;TZID=America/Los_Angeles:20261007T140000
+DESCRIPTION:Module III. Includes a 1-hour break from 11:00 AM–12:00 PM PT
+ .
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:4dfebd76-7618-5528-83ff-99a4c451b864@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Late
-DTSTART;TZID=America/Los_Angeles:20260521T230000
-DTEND;TZID=America/Los_Angeles:20260522T003000
+UID:b69c7b83-042f-5ed3-9cfd-29fddf3fc61c@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module III – Day 2 — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20261008T070000
+DTEND;TZID=America/Los_Angeles:20261008T140000
+DESCRIPTION:Module III. Includes a 1-hour break from 11:00 AM–12:00 PM PT
+ .
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:9293f790-56fb-5cff-ad3c-7fb75117baf0@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:2026 Neuroscience and Resonance Webinars – Living in Fantasy: Esc
- apism and Avoidant Attachment
-DTSTART;TZID=America/Los_Angeles:20260526T190000
-DTEND;TZID=America/Los_Angeles:20260526T203000
-DESCRIPTION:When reality feels too sharp to touch\, fantasy becomes a bal
- m. Avoidant attachment is not coldness—it is a sanctuary constructed fro
- m longing and protective distance. In this session\, we explore the cast
- les we build in the air and the roots we long to grow in the earth. What
-  relationships taught us to expect too little? How does the nervous syst
- em pull away before it even knows it’s done so? What becomes possible wh
- en we see our survival strategies not as pathology\, but as creativity b
- orn under pressure? Join Sarah Peyton in a gentle unmasking of avoidance
-  as both an ache and a strategy\, and a tender invitation back to presen
- ce.
+UID:c417fa53-b538-5b85-88fc-cd0b5cbd00e0@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module III – Day 3 — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20261009T070000
+DTEND;TZID=America/Los_Angeles:20261009T140000
+DESCRIPTION:Module III. Includes a 1-hour break from 11:00 AM–12:00 PM PT
+ .
 LOCATION:Online (Zoom)
-CATEGORIES:Webinar
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:76372d5b-661a-5eb6-87b5-797de38fb602@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Process Work Call with Sarah
+UID:443fb85f-fdfe-5f27-a039-9e414fc27d7b@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module III – Day 4 — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20261010T070000
+DTEND;TZID=America/Los_Angeles:20261010T140000
+DESCRIPTION:Module III. Includes a 1-hour break from 11:00 AM–12:00 PM PT
+ .
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:ac9b725d-e474-514f-8359-6a170f43b96a@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module III – Day 5 — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20261011T070000
+DTEND;TZID=America/Los_Angeles:20261011T140000
+DESCRIPTION:Module III. Includes a 1-hour break from 11:00 AM–12:00 PM PT
+ .
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:dd3bb96c-d85f-56f2-bb79-88792dfe24fe@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Process Work Session with Sarah — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260222T080000
+DTEND;TZID=America/Los_Angeles:20260222T100000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:c7cc188a-2b1a-5335-bb84-107cebbb371e@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Process Work Session with Sarah — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260315T080000
+DTEND;TZID=America/Los_Angeles:20260315T100000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:9d15c0f4-5620-522a-8c56-d15a46cfbd30@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Process Work Session with Sarah — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260614T080000
 DTEND;TZID=America/Los_Angeles:20260614T100000
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:c7fc1e4b-cb69-5750-b9df-66c79122eece@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Early
-DTSTART;TZID=America/Los_Angeles:20260618T080000
-DTEND;TZID=America/Los_Angeles:20260618T093000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:14f06214-8c46-5cad-918f-d9282155f363@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Late
-DTSTART;TZID=America/Los_Angeles:20260618T230000
-DTEND;TZID=America/Los_Angeles:20260619T003000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:eba27239-abe8-5908-b729-ccc2f439300a@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:2026 Neuroscience and Resonance Webinars – Living in Reality: Tru
- st and Surrender
-DTSTART;TZID=America/Los_Angeles:20260623T190000
-DTEND;TZID=America/Los_Angeles:20260623T203000
-DESCRIPTION:What does it take to soften into the now? To meet another per
- son without armoring or fantasy\, without scanning for danger or rehears
- ing disappointment? Living in reality is a brave act—a dance with trust\
- , and a flirtation with surrender. In this session\, we explore what hap
- pens when we let go of the roles we learned to play and listen instead f
- or what the moment invites. Join Sarah Peyton for a look at reality as a
-  relational space\, alive with the potential for new nervous system patt
- erns and deepened trust.
-LOCATION:Online (Zoom)
-CATEGORIES:Webinar
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:0b6ae680-6690-5ef3-8017-4eb8ae14d8cd@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Early
-DTSTART;TZID=America/Los_Angeles:20260716T080000
-DTEND;TZID=America/Los_Angeles:20260716T093000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:d05372a1-8f36-5767-bb6e-c4fb3a0c7836@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Late
-DTSTART;TZID=America/Los_Angeles:20260716T230000
-DTEND;TZID=America/Los_Angeles:20260717T003000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:5ad62f0b-2985-5d25-ac7b-ac6d3d72d119@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Process Work Call with Sarah
+UID:e2c6c8b5-316a-5222-9697-8044a403bbf7@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Process Work Session with Sarah — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260719T080000
 DTEND;TZID=America/Los_Angeles:20260719T100000
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:7bc01f48-45aa-5a0d-b301-458152c2f34c@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:2026 Neuroscience and Resonance Webinars – Healing Community Iden
- tity and Solidarity after Trauma
-DTSTART;TZID=America/Los_Angeles:20260721T190000
-DTEND;TZID=America/Los_Angeles:20260721T203000
-DESCRIPTION:When trauma\, whether its natural disaster or violence caused
-  by humans\, slices through a group\, what’s left in its wake? Sometimes
-  numbness\, shock and silence. Sometimes shame. Sometimes we act out wit
- h violence against the people we love the most. This session invites us 
- into the collective healing of identity—what it means to be part of some
- thing larger than ourselves\, after rupture. How do we mourn what was lo
- st? How do we listen to each other’s pain without collapsing or competin
- g? Join Sarah Peyton for a journey into the relational fields of communi
- ty\, trauma\, and the slow rebuilding of trust through solidarity.
-LOCATION:Online (Zoom)
-CATEGORIES:Webinar
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:8059d55c-000f-57c2-9020-60be9bcd7079@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Early
-DTSTART;TZID=America/Los_Angeles:20260820T080000
-DTEND;TZID=America/Los_Angeles:20260820T093000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:1fbfcf11-bbe3-5db3-8e31-52d28a2e5c72@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Late
-DTSTART;TZID=America/Los_Angeles:20260820T230000
-DTEND;TZID=America/Los_Angeles:20260821T003000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:128f2e95-0bfe-5623-aa20-56081d48b3da@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:2026 Neuroscience and Resonance Webinars – Self-Compassion and Ag
- ing: Neurobiology and Self-Relationship
-DTSTART;TZID=America/Los_Angeles:20260825T190000
-DTEND;TZID=America/Los_Angeles:20260825T203000
-DESCRIPTION:As time paints lines on our faces and slows our steps\, how d
- oes our inner dialogue age with us? Is your self-relationship one of kin
- dness\, or criticism? In the aging nervous system\, compassion is not a 
- luxury. Compassion is medicine. This session reviews how the brain and b
- ody evolve with age\, and how our unconscious contracts suspend us in ju
- dgment against ourselves. Join Sarah Peyton to reflect on what it means 
- to grow older in relationship with oneself. We invite warmth\, curiosity
- \, and the possibility of rewiring old loops into new tenderness.
-LOCATION:Online (Zoom)
-CATEGORIES:Webinar
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:427e40b5-c126-5d99-9612-bc41506993e4@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Process Work Call with Sarah
+UID:049f12e7-ebcb-562f-80ef-37a0723d1fd4@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Process Work Session with Sarah — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20260913T080000
 DTEND;TZID=America/Los_Angeles:20260913T100000
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:315953f2-d3e0-5d0d-b42f-415e17306f18@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Early
-DTSTART;TZID=America/Los_Angeles:20260917T080000
-DTEND;TZID=America/Los_Angeles:20260917T093000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:373efccd-848e-5e5d-9707-4660333c3181@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Late
-DTSTART;TZID=America/Los_Angeles:20260917T230000
-DTEND;TZID=America/Los_Angeles:20260918T003000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:524e0e87-a67d-53f8-8865-90ee19c5cf54@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:2026 Neuroscience and Resonance Webinars – Autism\, Trauma and th
- e Vagus Nerve
-DTSTART;TZID=America/Los_Angeles:20260922T190000
-DTEND;TZID=America/Los_Angeles:20260922T203000
-DESCRIPTION:What happens when the world feels fundamentally unsafe\, whet
- her it is too loud\, too fast\, or too much? For all of us\, the vagus n
- erve plays a crucial role in the processing of social and sensory input.
-  Both autism and trauma can complicate this further\, layering distress 
- upon difference. This session gently explores the intersection of autism
- \, trauma\, and the body’s relational wiring. How can we support nervous
-  systems that need something different from the world? Join Sarah Peyton
-  for a session grounded in neuroscience\, resonance\, and the celebratio
- n of diverse relational rhythms.
-LOCATION:Online (Zoom)
-CATEGORIES:Webinar
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:c5336462-81dd-520f-88a1-7c67c9af38d2@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Early
-DTSTART;TZID=America/Los_Angeles:20261015T080000
-DTEND;TZID=America/Los_Angeles:20261015T093000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:103eeac6-f0bf-532a-95ed-3ce88bb9a26f@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Late
-DTSTART;TZID=America/Los_Angeles:20261015T230000
-DTEND;TZID=America/Los_Angeles:20261016T003000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:4add901e-69d4-5aa0-bd7f-521d62f7b301@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:2026 Neuroscience and Resonance Webinars – Scapegoating and the E
- xpectation of Harm: Understanding and Healing
-DTSTART;TZID=America/Los_Angeles:20261027T190000
-DTEND;TZID=America/Los_Angeles:20261027T203000
-DESCRIPTION:What happens when the body expects to be blamed? To be the on
- e left out\, called out\, or cast aside? Scapegoating is a relational wo
- und that leaves deep grooves in the nervous system\, teaching us to anti
- cipate harm before it arrives. This session explores the origins of that
-  wound—and the gentle\, courageous work of healing it. What does your bo
- dy believe about your place in the group? And what becomes possible when
-  we interrupt the story that harm is inevitable? Join Sarah Peyton for a
-  compassionate exploration of scapegoating\, belonging\, and repair.
-LOCATION:Online (Zoom)
-CATEGORIES:Webinar
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:a3669614-f664-5cd6-abb4-f55494842729@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Process Work Call with Sarah
+UID:e10ff09b-0a5f-56ec-8e09-fa430fc78a5b@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Process Work Session with Sarah — RHP Program 2026
 DTSTART;TZID=America/Los_Angeles:20261115T080000
 DTEND;TZID=America/Los_Angeles:20261115T100000
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:2e8328b0-54aa-5954-a67c-966334da3074@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:2026 Neuroscience and Resonance Webinars – Celebrating Boredom’s 
- Invitation into Rich Relationship
-DTSTART;TZID=America/Los_Angeles:20261117T190000
-DTEND;TZID=America/Los_Angeles:20261117T203000
-DESCRIPTION:Do you ever long to have friends and partners be really inter
- ested in you? Do you love it when they can follow along with you and ask
-  two\, even three questions in a row about what you are experiencing? Wh
- en we really matter to ourselves\, and our anxieties start to fade\, we 
- begin to notice when we are relationally bored\, and a new awareness can
-  emerge into a subtle noticing of the quiet textures of our relationship
- s. This session invites us to explore boredom as a signal\, and to make 
- new efforts and requests\, and to be drawn toward new sorts of relations
- hips. Are we being met with curiosity? Are we extending it in return? Wh
- at happens when we turn toward our partners or friends not from fear\, b
- ut from genuine presence? Join Sarah Peyton for a deep dive into the hea
- rt of relational boredom\, and the possibility it holds for richer\, mor
- e attuned connection.
+UID:b24e695f-cd6f-5b0b-94f2-ac77710ffe8f@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Process Work Session with Sarah — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20261213T080000
+DTEND;TZID=America/Los_Angeles:20261213T100000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:62f3ad59-279b-55a6-af57-ea9b6c108bf9@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Early — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260219T080000
+DTEND;TZID=America/Los_Angeles:20260219T093000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:3745e96b-d606-5819-a26f-c85778eb6291@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Late — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260219T230000
+DTEND;TZID=America/Los_Angeles:20260220T003000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:601c97d4-86f2-51ee-a0f0-03d91c1daa97@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Early — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260319T080000
+DTEND;TZID=America/Los_Angeles:20260319T093000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:578e41c9-925b-5e31-bd02-a505d534e80d@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Late — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260319T230000
+DTEND;TZID=America/Los_Angeles:20260320T003000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:43d2ecff-f10b-5838-8116-2b70950c3f5a@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Early — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260416T080000
+DTEND;TZID=America/Los_Angeles:20260416T093000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:098e1724-c985-532e-bd0b-997282b2b3cf@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Late — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260416T230000
+DTEND;TZID=America/Los_Angeles:20260417T003000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:a21deb52-f70a-5dd8-b081-15513099c3e0@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Early — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260521T080000
+DTEND;TZID=America/Los_Angeles:20260521T093000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:914b93ee-98c1-5b83-ae81-3da9d7fdc293@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Late — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260521T230000
+DTEND;TZID=America/Los_Angeles:20260522T003000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:c9cd7af5-a1dc-5ab0-928d-fbb674731be8@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Early — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260618T080000
+DTEND;TZID=America/Los_Angeles:20260618T093000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:a0624691-36de-546d-b541-2e6140f1eb36@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Late — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260618T230000
+DTEND;TZID=America/Los_Angeles:20260619T003000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:e972068e-a278-51a5-bc37-2af4fed5d8c0@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Early — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260716T080000
+DTEND;TZID=America/Los_Angeles:20260716T093000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:b0f738c2-0590-58b1-868a-4043f33aaac7@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Late — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260716T230000
+DTEND;TZID=America/Los_Angeles:20260717T003000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:abe8ef9b-5e85-597a-82b7-22c004b5105d@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Early — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260820T080000
+DTEND;TZID=America/Los_Angeles:20260820T093000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:86200d1c-36fc-5be3-a33e-3350941daabd@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Late — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260820T230000
+DTEND;TZID=America/Los_Angeles:20260821T003000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:769b8319-b369-518d-8655-b4253c31fff8@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Early — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260917T080000
+DTEND;TZID=America/Los_Angeles:20260917T093000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:a8000d58-1c3f-506b-91ec-1f8e020c6050@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Late — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20260917T230000
+DTEND;TZID=America/Los_Angeles:20260918T003000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:ad254d49-d4b4-5a47-b330-4b7e42ba20f6@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Early — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20261015T080000
+DTEND;TZID=America/Los_Angeles:20261015T093000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:f8955c64-3c92-5e32-8ee5-46ca74c3d275@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Late — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20261015T230000
+DTEND;TZID=America/Los_Angeles:20261016T003000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:1991b422-cc52-54c6-9835-ce687c199593@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Early — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20261119T080000
+DTEND;TZID=America/Los_Angeles:20261119T093000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:3f92cd59-450d-5b21-b2ca-c0369a3ccebb@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Late — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20261119T230000
+DTEND;TZID=America/Los_Angeles:20261120T003000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:19e422f1-7086-59c4-9627-0bf3071df55c@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Early — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20261217T080000
+DTEND;TZID=America/Los_Angeles:20261217T093000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:7199826e-1367-5f99-a2e6-65d9d04c046d@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:Community Call – Late — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20261217T230000
+DTEND;TZID=America/Los_Angeles:20261218T003000
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:f80fe4f7-406c-5320-bd3e-0fb0bbb0a9aa@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module IV – Assessment – Day 1 — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20270108T070000
+DTEND;TZID=America/Los_Angeles:20270108T140000
+DESCRIPTION:Assessment module (Module IV). Includes a 1-hour break from 1
+ 1:00 AM–12:00 PM PT.
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d5e693-5306-5f95-893d-c03d47e4ca3a@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module IV – Assessment – Day 2 — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20270109T070000
+DTEND;TZID=America/Los_Angeles:20270109T140000
+DESCRIPTION:Assessment module (Module IV). Includes a 1-hour break from 1
+ 1:00 AM–12:00 PM PT.
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:d07b72b2-c520-50e0-a121-67671b214672@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:RHP Module IV – Assessment – Day 3 — RHP Program 2026
+DTSTART;TZID=America/Los_Angeles:20270110T070000
+DTEND;TZID=America/Los_Angeles:20270110T140000
+DESCRIPTION:Assessment module (Module IV). Includes a 1-hour break from 1
+ 1:00 AM–12:00 PM PT.
+LOCATION:Online (Zoom)
+CATEGORIES:Yearlong
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:fd4f95cb-f343-51c5-a429-067a8dce7590@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Allowing Nourishment: 
+ Digestion and Attachment — 2026 Neuroscience + Resonance Webinar Series
+DTSTART;TZID=America/Los_Angeles:20260113T190000
+DTEND;TZID=America/Los_Angeles:20260113T203000
+DESCRIPTION:What does it mean to be fed—not just with food\, but with car
+ e\, presence\, and attunement?\nIn the early kitchens of our lives\, whe
+ re relationships simmer alongside dinner plates\,\nour capacity to recei
+ ve nourishment is formed. Was it safe to be full? Or did hunger feel\nmo
+ re familiar? We begin in the gut and the breath—where digestion\, trauma
+ \, and attachment\nfirst root themselves. Here\, we tune into the body's
+  quiet knowing. We bring our attention\nto the gut as a place of intuiti
+ on and decision-making\, where attachment lives not only in\nfeelings bu
+ t in enzymes\, acids\, the microbiome and the slow churn of digestion. J
+ oin Sarah\nPeyton for a journey into the intersections of nourishment\, 
+ trust\, and relational metabolism.
 LOCATION:Online (Zoom)
 CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:90822b96-9513-57bb-bbaa-cc1b4bf65b86@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Early
-DTSTART;TZID=America/Los_Angeles:20261119T080000
-DTEND;TZID=America/Los_Angeles:20261119T093000
+UID:a117e497-9f9d-5b87-9b69-8c879ad10f4c@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – The Immune System and 
+ Our Relational Metabolism — 2026 Neuroscience + Resonance Webinar Series
+DTSTART;TZID=America/Los_Angeles:20260224T190000
+DTEND;TZID=America/Los_Angeles:20260224T203000
+DESCRIPTION:Our immune systems don’t just fight off germs—they remember e
+ xperiences. They carry the\nimprints of betrayal and belonging\, of safe
+ ty and suspicion. In the ecology of our bodies\,\nrelationships leave re
+ sidue: inflammation\, changes and modifications to cells\, and epigeneti
+ c\nmovement. What patterns of protection and perception have become embe
+ dded in our tissue? What\nstories does your immune system carry from the
+  relationships that shaped you? How does your body\ndecide what is welco
+ me\, and what must be defended against\, and how to prioritize its resou
+ rces?\nWhat might it mean to allow nourishment again? Join Sarah Peyton 
+ for an exploration of the\nbiology of boundaries and the tender intellig
+ ence of our inner defenders.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:72fda62f-0ac8-59b1-ac77-feab304dbfa9@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Late
-DTSTART;TZID=America/Los_Angeles:20261119T230000
-DTEND;TZID=America/Los_Angeles:20261120T003000
+UID:f24a5ae2-36ad-5887-becc-3e035abe79c6@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Lifelong Alarmed Alone
+ ness: Approaches to Healing — 2026 Neuroscience + Resonance Webinar Seri
+ es
+DTSTART;TZID=America/Los_Angeles:20260317T190000
+DTEND;TZID=America/Los_Angeles:20260317T203000
+DESCRIPTION:What happens when the people we needed most were not there? W
+ hen early echoes of absence become\nbackground noise in our adult lives\
+ , shaping our sense of what connection even is? Alarmed\naloneness is no
+ t just a moment\; it’s a state that can settle in the bones. In this ses
+ sion\, we\nlook gently at the long arc of this pattern—the ways it shows
+  up in our nervous system\, and the\nsurprising pathways toward soothing
+  and repair. Join Sarah Peyton for a dive into the roots and\nroutes of 
+ healing from chronic relational absence.
 LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
+CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
-UID:fefe7466-0de2-5524-8cb4-0fb8651841ef@calendar-generator
-DTSTAMP:20251216T034616Z
+UID:b1ef5bd0-2517-52e9-87d4-49f0a7984ae7@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Fawning\, the Vagus Ne
+ rve and Ambivalent Attachment — 2026 Neuroscience + Resonance Webinar Se
+ ries
+DTSTART;TZID=America/Los_Angeles:20260428T190000
+DTEND;TZID=America/Los_Angeles:20260428T203000
+DESCRIPTION:Have you ever smiled when your heart wanted to scream? Or sai
+ d yes while your body whispered no?\nHow have we twisted ourselves to st
+ ay close to love\, even when it harmed us? Fawning is the\nsurvival song
+  we learn to sing when love feels conditional. This session will look at
+  the dance\nbetween appeasement and attachment\, through the lens of the
+  vagus nerve and its role in shaping\nour relational responses. What doe
+ s your body remember about how to stay close? And what becomes\npossible
+  when we can rewrite that script? We meet our strategies with tenderness
+ —not to fix them\,\nbut to understand and appreciate their roots. Join S
+ arah Peyton for an inquiry into fawning\,\nnervous system intelligence\,
+  and the longings underneath compliance.
+LOCATION:Online (Zoom)
+CATEGORIES:Webinar
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:c7ab73af-757a-520e-b431-807f5ec19926@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Living in Fantasy: Esc
+ apism and Avoidant Attachment — 2026 Neuroscience + Resonance Webinar Se
+ ries
+DTSTART;TZID=America/Los_Angeles:20260526T190000
+DTEND;TZID=America/Los_Angeles:20260526T203000
+DESCRIPTION:When reality feels too sharp to touch\, fantasy becomes a bal
+ m. Avoidant attachment is not\ncoldness—it is a sanctuary constructed fr
+ om longing and protective distance. In this session\, we\nexplore the ca
+ stles we build in the air and the roots we long to grow in the earth. Wh
+ at\nrelationships taught us to expect too little? How does the nervous s
+ ystem pull away before it\neven knows it’s done so? What becomes possibl
+ e when we see our survival strategies not as\npathology\, but as creativ
+ ity born under pressure? Join Sarah Peyton in a gentle unmasking of\navo
+ idance as both an ache and a strategy\, and a tender invitation back to 
+ presence.
+LOCATION:Online (Zoom)
+CATEGORIES:Webinar
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:e796418a-5b2b-56d5-b9d1-00fb720fc3e7@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Living in Reality: Tru
+ st and Surrender — 2026 Neuroscience + Resonance Webinar Series
+DTSTART;TZID=America/Los_Angeles:20260623T190000
+DTEND;TZID=America/Los_Angeles:20260623T203000
+DESCRIPTION:What does it take to soften into the now? To meet another per
+ son without armoring or fantasy\,\nwithout scanning for danger or rehear
+ sing disappointment? Living in reality is a brave act—a\ndance with trus
+ t\, and a flirtation with surrender. In this session\, we explore what h
+ appens when\nwe let go of the roles we learned to play and listen instea
+ d for what the moment invites. Join\nSarah Peyton for a look at reality 
+ as a relational space\, alive with the potential for new\nnervous system
+  patterns and deepened trust.
+LOCATION:Online (Zoom)
+CATEGORIES:Webinar
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:75f79469-2dc9-5ac4-acbf-abd526ca59a7@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Healing Community Iden
+ tity and Solidarity After Trauma — 2026 Neuroscience + Resonance Webinar
+  Series
+DTSTART;TZID=America/Los_Angeles:20260728T190000
+DTEND;TZID=America/Los_Angeles:20260728T203000
+DESCRIPTION:When trauma—whether natural disaster or harm caused by humans
+ —slices through a group\, what’s left\nin its wake? Sometimes numbness\,
+  shock\, and silence. Sometimes shame. Sometimes we act out with\nviolen
+ ce against the people we love the most. This session invites us into the
+  collective healing\nof identity—what it means to be part of something l
+ arger than ourselves after rupture. How do we\nmourn what was lost? How 
+ do we listen to each other’s pain without collapsing or competing? Join\
+ nSarah Peyton for a journey into the relational fields of community\, tr
+ auma\, and the slow\nrebuilding of trust through solidarity.
+LOCATION:Online (Zoom)
+CATEGORIES:Webinar
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:e3970151-a358-5ba5-b839-d7709369abdb@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Self-Compassion and Ag
+ ing: Neurobiology and Self-Relationship — 2026 Neuroscience + Resonance 
+ Webinar Series
+DTSTART;TZID=America/Los_Angeles:20260825T190000
+DTEND;TZID=America/Los_Angeles:20260825T203000
+DESCRIPTION:As time paints lines on our faces and slows our steps\, how d
+ oes our inner dialogue age with us?\nIs your self-relationship one of ki
+ ndness\, or criticism? In the aging nervous system\, compassion\nis not 
+ a luxury—compassion is medicine. This session reviews how the brain and 
+ body evolve with\nage\, and how our unconscious contracts suspend us in 
+ judgment against ourselves. Join Sarah\nPeyton to reflect on what it mea
+ ns to grow older in relationship with oneself. We invite warmth\,\ncurio
+ sity\, and the possibility of rewiring old loops into new tenderness.
+LOCATION:Online (Zoom)
+CATEGORIES:Webinar
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:aa5c054c-0a8a-544d-bbfe-9a7703cffee0@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Autism\, Trauma and th
+ e Vagus Nerve — 2026 Neuroscience + Resonance Webinar Series
+DTSTART;TZID=America/Los_Angeles:20260922T190000
+DTEND;TZID=America/Los_Angeles:20260922T203000
+DESCRIPTION:What happens when the world feels fundamentally unsafe—when i
+ t is too loud\, too fast\, or too\nmuch? For all of us\, the vagus nerve
+  plays a crucial role in processing social and sensory input.\nBoth auti
+ sm and trauma can complicate this further\, layering distress upon diffe
+ rence. This\nsession gently explores the intersection of autism\, trauma
+ \, and the body’s relational wiring. How\ncan we support nervous systems
+  that need something different from the world? Join Sarah Peyton\nfor a 
+ session grounded in neuroscience\, resonance\, and the celebration of di
+ verse relational\nrhythms.
+LOCATION:Online (Zoom)
+CATEGORIES:Webinar
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:8287eaa2-0665-51e6-a9ca-379b1d1abe37@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Scapegoating and the E
+ xpectation of Harm: Understanding and Healing — 2026 Neuroscience + Reso
+ nance Webinar Series
+DTSTART;TZID=America/Los_Angeles:20261027T190000
+DTEND;TZID=America/Los_Angeles:20261027T203000
+DESCRIPTION:What happens when the body expects to be blamed? To be the on
+ e left out\, called out\, or cast\naside? Scapegoating is a relational w
+ ound that leaves deep grooves in the nervous system\,\nteaching us to an
+ ticipate harm before it arrives. This session explores the origins of th
+ at\nwound—and the gentle\, courageous work of healing it. What does your
+  body believe about your\nplace in the group? And what becomes possible 
+ when we interrupt the story that harm is\ninevitable? Join Sarah Peyton 
+ for a compassionate exploration of scapegoating\, belonging\,\nand repai
+ r.
+LOCATION:Online (Zoom)
+CATEGORIES:Webinar
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:d4e31350-1db1-5c40-8d7e-fb51caff86d0@calendar-generator
+DTSTAMP:20251121T065405Z
+SUMMARY:2026 Neuroscience and Resonance Webinars – Celebrating Boredom’s 
+ Invitation into Rich Relationship — 2026 Neuroscience + Resonance Webina
+ r Series
+DTSTART;TZID=America/Los_Angeles:20261117T190000
+DTEND;TZID=America/Los_Angeles:20261117T203000
+DESCRIPTION:Do you ever long to have friends and partners be really inter
+ ested in you? Do you love it when\nthey can follow along with you and as
+ k two\, even three questions in a row about what you are\nexperiencing? 
+ When we really matter to ourselves\, and our anxieties start to fade\, w
+ e begin to\nnotice when we are relationally bored\, and a new awareness 
+ can emerge into a subtle noticing of\nthe quiet textures of our relation
+ ships. This session invites us to explore boredom as a signal\,\nand to 
+ make new efforts and requests\, and to be drawn toward new sorts of rela
+ tionships. Are we\nbeing met with curiosity? Are we extending it in retu
+ rn? What happens when we turn toward our\npartners or friends not from f
+ ear\, but from genuine presence? Join Sarah Peyton for a deep dive\ninto
+  the heart of relational boredom\, and the possibility it holds for rich
+ er\, more attuned\nconnection.
+LOCATION:Online (Zoom)
+CATEGORIES:Webinar
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:6dce9f11-28e1-575d-8bf3-a1f406bac941@calendar-generator
+DTSTAMP:20251121T065405Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Free December Process 
- Work Webinar
+ Work Webinar — 2026 Neuroscience + Resonance Webinar Series
 DTSTART;TZID=America/Los_Angeles:20261208T190000
 DTEND;TZID=America/Los_Angeles:20261208T203000
 DESCRIPTION:To be announced.
 LOCATION:Online (Zoom)
 CATEGORIES:Webinar
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:ad766a59-03e1-5379-9be5-939f079cae4b@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Process Work Call with Sarah
-DTSTART;TZID=America/Los_Angeles:20261213T080000
-DTEND;TZID=America/Los_Angeles:20261213T100000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:22823237-d520-5321-9f59-e12847a9f500@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Early
-DTSTART;TZID=America/Los_Angeles:20261217T080000
-DTEND;TZID=America/Los_Angeles:20261217T093000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
-ORGANIZER;CN=Sarah Peyton:
-END:VEVENT
-BEGIN:VEVENT
-UID:744a4263-344f-5282-9bdb-507a54fca930@calendar-generator
-DTSTAMP:20251216T034616Z
-SUMMARY:Community Call – Late
-DTSTART;TZID=America/Los_Angeles:20261217T230000
-DTEND;TZID=America/Los_Angeles:20261218T003000
-LOCATION:Online (Zoom)
-CATEGORIES:Program\,Yearlong
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 END:VCALENDAR
