@@ -678,8 +678,8 @@ DTSTAMP:20251121T065405Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Healing Community Iden
  tity and Solidarity After Trauma — 2026 Neuroscience + Resonance Webinar
   Series
-DTSTART;TZID=America/Los_Angeles:20260728T190000
-DTEND;TZID=America/Los_Angeles:20260728T203000
+DTSTART;TZID=America/Los_Angeles:20260721T190000
+DTEND;TZID=America/Los_Angeles:20260721T203000
 DESCRIPTION:When trauma—whether natural disaster or harm caused by humans
  —slices through a group\, what’s left\nin its wake? Sometimes numbness\,
   shock\, and silence. Sometimes shame. Sometimes we act out with\nviolen
@@ -699,8 +699,8 @@ DTSTAMP:20251121T065405Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Self-Compassion and Ag
  ing: Neurobiology and Self-Relationship — 2026 Neuroscience + Resonance 
  Webinar Series
-DTSTART;TZID=America/Los_Angeles:20260825T190000
-DTEND;TZID=America/Los_Angeles:20260825T203000
+DTSTART;TZID=America/Los_Angeles:20260818T190000
+DTEND;TZID=America/Los_Angeles:20260818T203000
 DESCRIPTION:As time paints lines on our faces and slows our steps\, how d
  oes our inner dialogue age with us?\nIs your self-relationship one of ki
  ndness\, or criticism? In the aging nervous system\, compassion\nis not 
@@ -792,3 +792,4 @@ CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 END:VCALENDAR
+
