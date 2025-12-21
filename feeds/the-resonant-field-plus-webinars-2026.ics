@@ -4,26 +4,41 @@ PRODID:-//Calendar Generator//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:074cefb7-2df6-5905-adbb-ae2a299ee80c@calendar-generator
-DTSTAMP:20251215T180553Z
-SUMMARY:The Subconscious Mind and Hidden Desires: an Emergent Constellati
- ons View
-DTSTART;TZID=America/Los_Angeles:20260112T090000
-DTEND;TZID=America/Los_Angeles:20260112T102500
-DESCRIPTION:How do our hidden desires drive us? What is our vast\, subcon
- scious ocean of mind doing while we are living our daily lives? And what
-  does neuroscience tell us about what we don’t know about ourselves? The
-  part of our mind that we have access to\, the conscious mind\, can only
-  catch a small percentage of what lies beneath our surface. Explore how 
- subconscious processes shape behavior\, creativity\, and decision-making
-  in this 85-minute webinar with Sarah Peyton.
+UID:4130be8e-df96-5f0d-8e4d-239d4291b065@calendar-generator
+DTSTAMP:20251221T050347Z
+SUMMARY:Introduction to Emergent Constellations 2026
+DTSTART;TZID=America/Los_Angeles:20260213T090000
+DTEND;TZID=America/Los_Angeles:20260213T150000
+DESCRIPTION:Sarah’s approach to Emergent Constellations encourages facilitators to integrate relational neuroscience and an understanding of relational vs instrumental language into the work. Participants learn the basics of constellation work within the framework of emergent constellations, and enter into a meaningful partnership with reps and clients to harvest all the wisdom that is present in the field.
 LOCATION:Online (Zoom)
-CATEGORIES:Constellations\,Webinar
+CATEGORIES:Program,Constellations
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:60a9ab90-9e20-5e45-aa19-9edaeba47992@calendar-generator
+DTSTAMP:20251221T050347Z
+SUMMARY:Introduction to Emergent Constellations 2026
+DTSTART;TZID=America/Los_Angeles:20260214T090000
+DTEND;TZID=America/Los_Angeles:20260214T150000
+DESCRIPTION:Sarah’s approach to Emergent Constellations encourages facilitators to integrate relational neuroscience and an understanding of relational vs instrumental language into the work. Participants learn the basics of constellation work within the framework of emergent constellations, and enter into a meaningful partnership with reps and clients to harvest all the wisdom that is present in the field.
+LOCATION:Online (Zoom)
+CATEGORIES:Program,Constellations
+ORGANIZER;CN=Sarah Peyton:
+END:VEVENT
+BEGIN:VEVENT
+UID:0364aa6b-59a0-5b24-b0e6-55b5298ceb94@calendar-generator
+DTSTAMP:20251221T050347Z
+SUMMARY:Introduction to Emergent Constellations 2026
+DTSTART;TZID=America/Los_Angeles:20260215T090000
+DTEND;TZID=America/Los_Angeles:20260215T150000
+DESCRIPTION:Sarah’s approach to Emergent Constellations encourages facilitators to integrate relational neuroscience and an understanding of relational vs instrumental language into the work. Participants learn the basics of constellation work within the framework of emergent constellations, and enter into a meaningful partnership with reps and clients to harvest all the wisdom that is present in the field.
+LOCATION:Online (Zoom)
+CATEGORIES:Program,Constellations
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:f4fb02a9-78c8-5f4a-b237-6d05ee9c6888@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Dreams and Their Secrets: an Emergent Constellations View
 DTSTART;TZID=America/Los_Angeles:20260209T090000
 DTEND;TZID=America/Los_Angeles:20260209T102500
@@ -39,7 +54,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:d1cfa61d-f64c-5228-a92f-de797589960d@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Module 1: The Art of Representing in Family Constellations
 DTSTART;TZID=America/Los_Angeles:20260220T090000
 DTEND;TZID=America/Los_Angeles:20260220T150000
@@ -53,7 +68,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:ee759b57-9a94-5735-85c2-b002d843a5da@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Module 2: Finding Ourselves in the Web of our Contracts and Loyal
  ties
 DTSTART;TZID=America/Los_Angeles:20260313T090000
@@ -69,7 +84,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:b80a1086-1923-5bf2-8681-19336434d1fc@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Self within Implicit Bias: an Emergent Constellations View
 DTSTART;TZID=America/Los_Angeles:20260316T090000
 DTEND;TZID=America/Los_Angeles:20260316T102500
@@ -89,7 +104,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:7a9962eb-724d-556f-ab28-af9516cc553b@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Module 3: The Role and Resolution of Trauma in Constellations
 DTSTART;TZID=America/Los_Angeles:20260410T090000
 DTEND;TZID=America/Los_Angeles:20260410T150000
@@ -103,7 +118,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:b92aa966-d5ff-5c5b-8250-8302d7ad47f8@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Hidden Memories\, Neglect and Trauma: an Emergent Constellations 
  View
 DTSTART;TZID=America/Los_Angeles:20260413T090000
@@ -125,7 +140,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:8419af4b-3269-5b83-903e-bfdc5bdf1e23@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Module 4: Healing our Sense of Mother
 DTSTART;TZID=America/Los_Angeles:20260508T090000
 DTEND;TZID=America/Los_Angeles:20260508T150000
@@ -142,7 +157,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:d9ad57b1-2c35-514d-b9a2-27c37d22677a@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Mysticism as a Hidden Aspect of Self: an Emergent Constellations 
  View
 DTSTART;TZID=America/Los_Angeles:20260511T090000
@@ -161,7 +176,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:e400bf8c-ac2f-5a72-a678-c9ea8b997a40@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Module 5: Healing our Sense of Father
 DTSTART;TZID=America/Los_Angeles:20260612T090000
 DTEND;TZID=America/Los_Angeles:20260612T150000
@@ -179,7 +194,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:70d4107d-04d1-592f-b276-df5106b56884@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:The Body’s Hidden Self: an Emergent Constellations View
 DTSTART;TZID=America/Los_Angeles:20260615T090000
 DTEND;TZID=America/Los_Angeles:20260615T102500
@@ -199,7 +214,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:6106e9fa-f386-51e3-85f6-721a438df506@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Module 6: Finding our Right Place as Parents/Mentors
 DTSTART;TZID=America/Los_Angeles:20260710T090000
 DTEND;TZID=America/Los_Angeles:20260710T150000
@@ -219,7 +234,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:22bf1668-566a-5c79-89ef-47648ba9332c@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Multiple States of Self: an Emergent Constellations View
 DTSTART;TZID=America/Los_Angeles:20260713T090000
 DTEND;TZID=America/Los_Angeles:20260713T102500
@@ -241,7 +256,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:4729eab8-a980-58b9-8ae8-09a47e9edba9@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Flow as a Hidden Stream: an Emergent Constellations View
 DTSTART;TZID=America/Los_Angeles:20260810T090000
 DTEND;TZID=America/Los_Angeles:20260810T102500
@@ -267,7 +282,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:ee016c07-9a29-5f09-830c-176a9b683d4e@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Module 7: Working with the Hidden: Secrets and the Unconscious in
   Families
 DTSTART;TZID=America/Los_Angeles:20260814T090000
@@ -282,7 +297,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:119e0c7c-eafe-55f6-a35b-9cd877c856ba@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Module 8: Acknowledging Scale and Magnitude in Constellations
 DTSTART;TZID=America/Los_Angeles:20260911T090000
 DTEND;TZID=America/Los_Angeles:20260911T150000
@@ -299,7 +314,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:df8f58ff-7a91-5a8e-a00b-6e7bde57ed49@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Finding the Intuitive Self: an Emergent Constellations View
 DTSTART;TZID=America/Los_Angeles:20260914T090000
 DTEND;TZID=America/Los_Angeles:20260914T102500
@@ -320,7 +335,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:f2cf9a41-a5d5-525c-a177-4f0cad163843@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Module 9: Opening the Door to Mystery and Awe in Constellations
 DTSTART;TZID=America/Los_Angeles:20261002T090000
 DTEND;TZID=America/Los_Angeles:20261002T150000
@@ -334,7 +349,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:03bc3a4f-d651-52f6-8a75-13fb087dc018@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:The Felt Sense of Self: an Emergent Constellations View
 DTSTART;TZID=America/Los_Angeles:20261012T090000
 DTEND;TZID=America/Los_Angeles:20261012T102500
@@ -355,7 +370,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:194048ef-c51a-55a5-b35c-fda31e8b2f74@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Continuity over Time: an Emergent Constellations View
 DTSTART;TZID=America/Los_Angeles:20261109T090000
 DTEND;TZID=America/Los_Angeles:20261109T102500
@@ -375,7 +390,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:8a05a979-e6bf-594a-9650-5ad57afbef8b@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Module 10: Supporting the Movement Through Heartbreak in Constell
  ations
 DTSTART;TZID=America/Los_Angeles:20261113T090000
@@ -390,7 +405,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:bf5cf3f6-f3ae-5568-a28e-4fa27daa0028@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Module 11: Negotiating Death and Darkness in Constellations
 DTSTART;TZID=America/Los_Angeles:20261211T090000
 DTEND;TZID=America/Los_Angeles:20261211T150000
@@ -404,7 +419,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:1448739d-300c-5a0d-8d47-5f21cb0e55e8@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Meeting the Shadow Self: an Emergent Constellations View
 DTSTART;TZID=America/Los_Angeles:20261214T090000
 DTEND;TZID=America/Los_Angeles:20261214T102500
@@ -426,7 +441,7 @@ ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 BEGIN:VEVENT
 UID:1db0541e-3094-5166-8051-e53f0d47c6f0@calendar-generator
-DTSTAMP:20251215T180553Z
+DTSTAMP:20251221T050347Z
 SUMMARY:Module 12: The Resurrection of Hope in Constellations
 DTSTART;TZID=America/Los_Angeles:20270115T090000
 DTEND;TZID=America/Los_Angeles:20270115T150000
