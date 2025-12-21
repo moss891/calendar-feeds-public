@@ -784,8 +784,8 @@ UID:6dce9f11-28e1-575d-8bf3-a1f406bac941@calendar-generator
 DTSTAMP:20251121T065405Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Free December Process 
  Work Webinar — 2026 Neuroscience + Resonance Webinar Series
-DTSTART;TZID=America/Los_Angeles:20261208T190000
-DTEND;TZID=America/Los_Angeles:20261208T203000
+DTSTART;TZID=America/Los_Angeles:20261208T180000
+DTEND;TZID=America/Los_Angeles:20261208T200000
 DESCRIPTION:To be announced.
 LOCATION:Online (Zoom)
 CATEGORIES:Webinar
