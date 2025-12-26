@@ -153,8 +153,8 @@ UID:af3d192c-0fb4-5ea5-a048-688332222af9@calendar-generator
 DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Self-Compassion and Ag
  ing: Neurobiology and Self-Relationship
-DTSTART;TZID=America/Los_Angeles:20260825T190000
-DTEND;TZID=America/Los_Angeles:20260825T203000
+DTSTART;TZID=America/Los_Angeles:20260818T190000
+DTEND;TZID=America/Los_Angeles:20260818T203000
 DESCRIPTION:As time paints lines on our faces and slows our steps\, how d
  oes our inner dialogue age with us? Is your self-relationship one of kin
  dness\, or criticism? In the aging nervous system\, compassion is not a 
@@ -235,8 +235,8 @@ UID:fefe7466-0de2-5524-8cb4-0fb8651841ef@calendar-generator
 DTSTAMP:20251219T224650Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Free December Process 
  Work Webinar
-DTSTART;TZID=America/Los_Angeles:20261208T190000
-DTEND;TZID=America/Los_Angeles:20261208T203000
+DTSTART;TZID=America/Los_Angeles:20261208T180000
+DTEND;TZID=America/Los_Angeles:20261208T200000
 DESCRIPTION:To be announced.
 LOCATION:Online (Zoom)
 CATEGORIES:Webinar
