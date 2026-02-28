@@ -614,8 +614,8 @@ DTSTAMP:20251121T065405Z
 SUMMARY:2026 Neuroscience and Resonance Webinars – Fawning\, the Vagus Ne
  rve and Ambivalent Attachment — 2026 Neuroscience + Resonance Webinar Se
  ries
-DTSTART;TZID=America/Los_Angeles:20260428T190000
-DTEND;TZID=America/Los_Angeles:20260428T203000
+DTSTART;TZID=America/Los_Angeles:20260421T190000
+DTEND;TZID=America/Los_Angeles:20260421T203000
 DESCRIPTION:Have you ever smiled when your heart wanted to scream? Or sai
  d yes while your body whispered no?\nHow have we twisted ourselves to st
  ay close to love\, even when it harmed us? Fawning is the\nsurvival song
@@ -792,4 +792,5 @@ CATEGORIES:Webinar
 ORGANIZER;CN=Sarah Peyton:
 END:VEVENT
 END:VCALENDAR
+
 
